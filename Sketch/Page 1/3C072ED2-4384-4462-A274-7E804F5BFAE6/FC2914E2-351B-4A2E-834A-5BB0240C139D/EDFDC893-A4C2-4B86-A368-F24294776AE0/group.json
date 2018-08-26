@@ -12,14 +12,20 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 2,
+    "destinationArtboardID": "A5DF3302-88E9-473B-A291-5B3697C89A89",
+    "do_objectID": "4492DE95-4A8B-460C-B102-8583030D4CEB"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "090C6BA3-4BFC-4708-8CEB-D236D01E7DEF",
     "height": 26,
     "width": 33,
-    "x": 278,
-    "y": 12
+    "x": 308,
+    "y": 44
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -27,7 +33,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

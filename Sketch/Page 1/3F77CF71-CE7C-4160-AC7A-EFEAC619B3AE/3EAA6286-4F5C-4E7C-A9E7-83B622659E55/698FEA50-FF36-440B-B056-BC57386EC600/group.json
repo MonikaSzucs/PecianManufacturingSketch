@@ -12,14 +12,20 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 2,
+    "destinationArtboardID": "A5DF3302-88E9-473B-A291-5B3697C89A89",
+    "do_objectID": "D621A8C5-1A9A-4EED-8C32-CBCF470E506F"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1D7A93BE-6EC4-4666-99BD-37CA0186562A",
     "height": 26,
     "width": 33,
-    "x": 288,
-    "y": 11
+    "x": 305,
+    "y": 41
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,

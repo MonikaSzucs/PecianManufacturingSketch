@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6E22754D-20B2-40E0-A1F9-AD358C92EE96",
-    "height": 47,
-    "width": 326,
-    "x": 14,
-    "y": 34
+    "height": 107,
+    "width": 378,
+    "x": -1,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": true,
@@ -27,8 +27,12 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4E00FD84-5AC1-48CF-A67E-6400CB1C513B"
+    },
     {
       "class": "group",
       "id": "835270AD-3D3B-4F2E-A001-6F075022246E"
