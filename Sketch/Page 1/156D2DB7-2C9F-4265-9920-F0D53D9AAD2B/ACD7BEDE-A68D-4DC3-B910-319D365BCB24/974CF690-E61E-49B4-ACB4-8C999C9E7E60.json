@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "974CF690-E61E-49B4-ACB4-8C999C9E7E60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F6C80B8-EFBD-46B4-BD8B-0022B8B4F91C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4664F8F6-44F7-4B18-907F-698F32F465F0",
+    "height": 195,
+    "width": 195,
+    "x": 279,
+    "y": 239
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/88d4a668bea5e9c99fb03b36cebace8c7b5fce0b.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "310-Double-Magazine-Holder-Basketweave-and-ballistic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1A3E675-7C17-474F-978C-735DA4A6F974",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "EFB76DCF-FA93-4EEF-A76F-0B99B8C49EFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F781066-AC5E-462A-BD9A-41003F7DC194",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69D33EBF-E47A-4830-BC69-5CDFE42146BC",
+    "height": 753,
+    "width": 408,
+    "x": 1012,
+    "y": 2052
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "7490ADBE-F875-47B8-A8D3-788B9AE18D01"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7876181-9AD0-49EA-93A7-47A545615AA8"
+    },
+    {
+      "class": "text",
+      "id": "8427EEB7-BDE2-4553-9520-2FFEA2129C5A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "36743D30-3ECC-4E97-AED9-1DF92DF60B4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "883FC9EA-2924-4C7E-AC44-9C0DF30AD8CA"
+    },
+    {
+      "class": "text",
+      "id": "92F7164C-F459-4F0D-A2E0-2878A0A6A680"
+    }
+  ],
+  "name": "Flashlight Holder #350 #351 #355",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F02E155F-C07C-443C-9A0D-64D5D2796DAE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

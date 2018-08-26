@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "44B4AFF9-46A6-4013-AE28-D3F3AB99A083",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2943AAAD-4559-4D65-A8A6-64A05AB98B26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "75DA89B5-9898-4C4A-B6A0-49761F173617",
+    "height": 83,
+    "width": 87,
+    "x": 144,
+    "y": 49
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5cf4de28e77be49cc97e6ea17fe1d54240af56b6.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ShoppingCart",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDA96EF1-C2D8-43C9-B15D-361DD47E1E73",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

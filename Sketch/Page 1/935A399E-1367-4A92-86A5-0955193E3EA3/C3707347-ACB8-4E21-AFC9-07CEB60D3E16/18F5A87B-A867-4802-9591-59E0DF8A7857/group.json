@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "18F5A87B-A867-4802-9591-59E0DF8A7857",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E7ED584-5BB9-4BF4-96C4-F98CCCED453E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50E2A4E7-669A-45C3-BC03-1CC2D7B41685",
+    "height": 768,
+    "width": 768,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C0D149BA-C67A-4376-BE2D-1A5F5FA2C6A0"
+    },
+    {
+      "class": "bitmap",
+      "id": "FFCBC8DE-9D2D-4E22-BC56-86AB149102D1"
+    },
+    {
+      "class": "bitmap",
+      "id": "C7D23117-AF32-401A-9814-5656361F81FA"
+    },
+    {
+      "class": "bitmap",
+      "id": "D49DB18B-FA33-4D20-905B-6B44C895B87C"
+    }
+  ],
+  "name": "Cover Picture",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5A6E303-110C-421D-87E9-0B2E33F36B25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

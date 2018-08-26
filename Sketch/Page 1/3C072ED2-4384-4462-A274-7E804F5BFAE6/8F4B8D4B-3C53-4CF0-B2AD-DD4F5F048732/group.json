@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8F4B8D4B-3C53-4CF0-B2AD-DD4F5F048732",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "318D79BC-69A5-4964-B8DC-BBEB9DBAFCC7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27FCEAA0-E2BF-4DA7-A7AB-FA9A51FCEA30",
+    "height": 343,
+    "width": 375,
+    "x": 0,
+    "y": 1300
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0A2BB300-EA15-4604-B2E7-3D8B2FFBF8C8"
+    },
+    {
+      "class": "text",
+      "id": "E1703A23-E797-420C-92EA-CF7FCD2CBE0F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2CD6CB5F-F261-4D6A-A5F8-E5D925080F1E"
+    },
+    {
+      "class": "text",
+      "id": "E48BD999-C62B-4BE8-9A68-6794C064A807"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E79CA30-982B-4B81-954E-55BEC59C9995"
+    },
+    {
+      "class": "text",
+      "id": "C83155BA-B8AA-4BBE-BBAF-68EDE015E5CE"
+    }
+  ],
+  "name": "Shop Now",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8038DACE-F6F3-4C11-AEA7-0E382DBEE00A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

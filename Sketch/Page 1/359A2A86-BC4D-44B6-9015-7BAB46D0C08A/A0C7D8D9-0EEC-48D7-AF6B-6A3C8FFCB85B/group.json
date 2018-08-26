@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A0C7D8D9-0EEC-48D7-AF6B-6A3C8FFCB85B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1FF1732-563D-4064-8BC1-A80B52BB21CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6774C7E5-FE66-42C6-9CCF-F0274050324B",
+    "height": 751,
+    "width": 408,
+    "x": 1446,
+    "y": 2052
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "504B3DB8-06F5-4E56-9BDA-A884309EF880"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B78EB09-2D68-4333-9E8E-016E1255CC0E"
+    },
+    {
+      "class": "text",
+      "id": "0814D66B-E27C-4EFF-AD76-DB89A1BDE0E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E387E4C9-ACF4-4EC4-9036-58F5BC222F30"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51E1368D-F308-40A6-BBB2-9951F0896D35"
+    },
+    {
+      "class": "text",
+      "id": "74FE15C4-4299-417E-851B-885B581B90F1"
+    }
+  ],
+  "name": "Glove Pouch",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "354A04F8-06E0-40E0-9C99-07729B69029E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

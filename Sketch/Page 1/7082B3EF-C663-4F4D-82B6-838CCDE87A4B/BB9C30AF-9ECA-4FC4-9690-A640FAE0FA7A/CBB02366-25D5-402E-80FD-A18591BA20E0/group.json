@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CBB02366-25D5-402E-80FD-A18591BA20E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "793328AB-FDA8-422F-B004-5924A8ABF6C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27C56EAA-DEC4-4B4D-B3A9-106B2E1964CA",
+    "height": 117,
+    "width": 114,
+    "x": 74,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "77A655A4-C3A6-4726-8A36-8112BB68E389"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DBC685DA-708D-4CCB-A686-7BF18BCA2C11"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F7B385D-0296-443E-946E-6EE90517B518"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92A51A75-993F-4E36-8D7E-96127B312E87"
+    }
+  ],
+  "name": "ContactUsIcon-01",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "317C13FA-FF05-4705-8792-A4ABF1D287A3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

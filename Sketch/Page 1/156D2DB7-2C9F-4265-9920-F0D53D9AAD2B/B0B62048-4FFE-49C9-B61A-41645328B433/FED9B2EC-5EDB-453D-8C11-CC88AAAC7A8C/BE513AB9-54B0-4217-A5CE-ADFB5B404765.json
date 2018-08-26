@@ -1,0 +1,89 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BE513AB9-54B0-4217-A5CE-ADFB5B404765",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D925314-7412-43C1-AE48-80D421D508C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4D811EDA-FCE4-44E1-A15C-FDF9B82F00B8",
+    "height": 384,
+    "width": 384,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/88a96ac63e211ae059245ff656036ad398a87973.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "301-Cover-Cuff-Holder-Basketweave-300x300",
+  "nameIsFixed": false,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0415C77-4308-4EFA-ABEA-4153B42FF476",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 384,
+            "enabled": 1,
+            "modelID": "constraint_57a75766-ad45-45a9-8338-e0bef13868ed",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 384
+          },
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_4944311f-1445-48eb-9092-45da3bfdcc3b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_95fbcd4b-89bd-4d04-b171-e8d3def4fe48",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_96444b8f-f2c1-48d3-8d7c-4427e3f28ae7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0.5
+          }
+        }
+      }
+    }
+  }
+}

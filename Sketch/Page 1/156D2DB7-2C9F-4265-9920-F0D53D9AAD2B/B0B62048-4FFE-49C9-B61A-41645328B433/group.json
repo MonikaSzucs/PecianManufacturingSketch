@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B0B62048-4FFE-49C9-B61A-41645328B433",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "28A5F83A-A17B-496B-A707-1818769E238A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45F39974-5AA5-439D-91B0-70F8C3D68AA2",
+    "height": 1151,
+    "width": 768,
+    "x": 0,
+    "y": 116
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "32C64AB8-48B7-404F-8E13-DC5F8A5228E9"
+    },
+    {
+      "class": "group",
+      "id": "FED9B2EC-5EDB-453D-8C11-CC88AAAC7A8C"
+    },
+    {
+      "class": "group",
+      "id": "A7AA66D4-5F49-47C5-8984-4831E283FAD0"
+    }
+  ],
+  "name": "Top Banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18CB7FF1-89F8-44A6-96F1-8359EC5A597D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

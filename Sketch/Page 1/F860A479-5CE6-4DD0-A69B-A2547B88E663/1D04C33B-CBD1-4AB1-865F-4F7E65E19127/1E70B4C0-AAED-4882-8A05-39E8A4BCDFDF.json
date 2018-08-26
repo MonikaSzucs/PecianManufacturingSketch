@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "1E70B4C0-AAED-4882-8A05-39E8A4BCDFDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73933D0A-23C2-4DBA-A21A-A1EEF2C5985F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "86F78AAC-7AB3-4530-9F30-68106AAD66C7",
+    "height": 152,
+    "width": 398,
+    "x": 195,
+    "y": 178
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e9e192f821fdd98ef89836fe1a266d0a515cf1bc.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DSTactical-300x113",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EB07B0AC-C370-439C-8465-B68DDD5A83F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 152,
+            "enabled": 1,
+            "modelID": "constraint_7adb595d-6dc0-4760-ad3f-49c96912305c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 398
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3c772c42-a837-43ba-b289-7f9f4ef64afe",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

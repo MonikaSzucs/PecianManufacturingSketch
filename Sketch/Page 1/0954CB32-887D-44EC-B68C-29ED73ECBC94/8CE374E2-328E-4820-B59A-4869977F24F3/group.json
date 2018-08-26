@@ -1,0 +1,116 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8CE374E2-328E-4820-B59A-4869977F24F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43058A3C-293C-422C-95B6-BF7E614EC5BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED0D8017-40FB-4DA7-ADC1-B075C4A800C2",
+    "height": 466,
+    "width": 376,
+    "x": -1,
+    "y": 2418
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0ACA9764-5D25-4657-96A4-C76BCD98D494"
+    },
+    {
+      "class": "bitmap",
+      "id": "34B9A867-E956-4E93-9BB9-ED40BFC5C4C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C1457BF0-42EC-4A20-B05C-F2B37362717C"
+    },
+    {
+      "class": "text",
+      "id": "87C2ED6B-BC02-4324-ADDC-22E57F06B923"
+    },
+    {
+      "class": "text",
+      "id": "F22FF0AE-6DE1-4119-93D1-284A675ED344"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "89489216-632A-40C3-8029-BA71AE2FE148"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "59F1F4F6-9304-488F-B627-EC853616F31D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C5F909F-CE89-4784-A024-3B4A7C3C86F1"
+    }
+  ],
+  "name": "Map Location",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "016D0941-D038-4466-A4D7-F1AC4E836FFD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_a1d75ed6-baa1-4050-ba0c-fcf0508174c8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_7bcb6948-cb7d-485e-af92-18b8ce43e379",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": -1,
+            "enabled": 1,
+            "modelID": "constraint_b9cfebf4-3cb6-4369-ab4e-237a1f437340",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_a7378265-46ce-4532-a2f3-7045074e8fc0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1
+          }
+        }
+      }
+    }
+  }
+}

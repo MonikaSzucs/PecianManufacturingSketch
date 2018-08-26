@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1C02FF4A-9822-46B8-B752-317C761DD02F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA68BF12-2938-4FAA-B206-B51A408C7CB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E582A81F-9FDD-4BFD-AAC1-95334930E5CE",
+    "height": 58,
+    "width": 655,
+    "x": 49,
+    "y": 31
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "95AFBA40-E83C-479E-AD2E-6422B18F70FC"
+    },
+    {
+      "class": "group",
+      "id": "95F96412-2172-47BE-8C0C-1579FFDEEAA1"
+    },
+    {
+      "class": "group",
+      "id": "00802F2B-3440-461B-9021-88FAE4C86C80"
+    }
+  ],
+  "name": "Top Menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4898C4FD-6CAE-446B-90AD-5434652128E9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

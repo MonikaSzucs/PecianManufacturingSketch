@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "53229ECE-FDC0-4118-B259-E5023F45B86A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4CA94BDA-0A46-4D34-8B11-2655305E28D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5C2C41C-323D-4052-81C3-3ED67861EB22",
+    "height": 965,
+    "width": 1378,
+    "x": 542,
+    "y": 5757
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "B73A8637-9172-48A4-A4B0-99DD7F211B6B"
+    },
+    {
+      "class": "bitmap",
+      "id": "E4B906AC-C6CB-48E0-8D15-A05641C89882"
+    },
+    {
+      "class": "text",
+      "id": "3BA3EC6B-4879-4835-9AD4-FAA348D78C04"
+    },
+    {
+      "class": "text",
+      "id": "404CA695-AA71-4FDD-8441-D2F0DE6C15EA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7ADAB6E6-0DC4-4B3E-8297-2F793698DA77"
+    },
+    {
+      "class": "text",
+      "id": "16EF4A3E-021A-442F-9CB6-70B20D5BDCC5"
+    }
+  ],
+  "name": "Shop Now Bottom",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AAD9FD5-2949-45A7-985B-FE4FC8140A2E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

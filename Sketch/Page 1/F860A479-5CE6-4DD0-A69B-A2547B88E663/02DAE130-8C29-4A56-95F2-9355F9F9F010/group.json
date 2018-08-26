@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "02DAE130-8C29-4A56-95F2-9355F9F9F010",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAA75D0F-3BD1-41AD-8D18-E15910B9596A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E069DC86-A8EB-4615-AE5A-B882648765A6",
+    "height": 476,
+    "width": 256,
+    "x": 513,
+    "y": 3330
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2258D973-51CA-468A-8ABA-99DADADF4AE8"
+    },
+    {
+      "class": "text",
+      "id": "1D177FC8-127B-4DE8-B97F-6CE77050279B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "86713AC4-AFDF-4639-92C0-9D3F584897EE"
+    },
+    {
+      "class": "text",
+      "id": "1CD13B1B-0521-4A1A-8766-724683CB40CD"
+    }
+  ],
+  "name": "The Right Communication",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "242D3C79-E564-44C2-918D-8057C2CE3890",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

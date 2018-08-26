@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "66440174-129C-471B-90DD-09EB59A0D268",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC5F8ADB-2E6C-499C-8D79-7385BF9E719F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67BE0991-8AC7-4D63-BBBF-102FD6F03F64",
+    "height": 215,
+    "width": 425,
+    "x": 569,
+    "y": 762
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "342D3B96-43B1-4D70-B39B-456C12ED1B8D"
+    },
+    {
+      "class": "text",
+      "id": "52E9D7A6-F27E-4E69-9995-889C8B42630C"
+    }
+  ],
+  "name": "Service Questions",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9DED05D0-2F01-48E8-BF6A-070C45555CC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

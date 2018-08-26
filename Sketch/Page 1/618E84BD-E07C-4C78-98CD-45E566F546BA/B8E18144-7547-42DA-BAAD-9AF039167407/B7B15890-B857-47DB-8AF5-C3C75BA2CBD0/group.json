@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B7B15890-B857-47DB-8AF5-C3C75BA2CBD0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2208B08D-2E5D-4C4E-9968-8091EC9337F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3EB5E94B-EDDA-4DE7-B4AF-8F6A86DDF586",
+    "height": 277,
+    "width": 237,
+    "x": 1124,
+    "y": 95
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "10B73BEE-8F09-48FD-BF60-6DA0FFF5BE7A"
+    },
+    {
+      "class": "group",
+      "id": "E8B96637-B1A8-4857-9AE5-EAB19E05355D"
+    },
+    {
+      "class": "text",
+      "id": "2C61F40F-8ACD-4E95-B102-CF7DCCB7E30F"
+    }
+  ],
+  "name": "Deliver",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94E2ED25-9351-46FF-A782-068DEF6D9D9F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

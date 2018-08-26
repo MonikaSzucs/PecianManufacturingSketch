@@ -1,0 +1,89 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "079E9ABE-DB2C-46D8-A32A-E3BB7FCE47AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA2260AC-77D2-4FB0-9EE8-58DEF2FCD965",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "72982DA3-181D-4195-B54E-4AD1954331A0",
+    "height": 384,
+    "width": 384,
+    "x": 384,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c1fed300ef511d79694e84c8300f478d51b14603.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "200-and-205-Small-and-Big-Radio-Holder-Ballistic-300x300",
+  "nameIsFixed": false,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "43CCDC13-5A1F-4E01-85C9-373043F43C2E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 384,
+            "enabled": 1,
+            "modelID": "constraint_a75051ca-0f23-4742-b5e5-fa675c4491cf",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 384
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d07293a2-d372-4977-985d-7239421611e4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_0a579978-5e53-4ce6-808f-a73ae29b278e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_6a266ba1-41ff-4875-b09a-1f06307d0e16",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0.5
+          }
+        }
+      }
+    }
+  }
+}

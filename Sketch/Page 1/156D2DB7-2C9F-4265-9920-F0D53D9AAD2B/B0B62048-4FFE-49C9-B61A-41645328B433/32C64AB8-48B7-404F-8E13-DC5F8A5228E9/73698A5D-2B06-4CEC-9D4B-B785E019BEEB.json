@@ -1,0 +1,97 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "73698A5D-2B06-4CEC-9D4B-B785E019BEEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4193B16-38C5-4CF9-AACB-D31C2DF1FD8B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "72DCE04B-51F6-482E-B49A-B31D05B6AE01",
+    "height": 384,
+    "width": 384,
+    "x": 384,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/0887a520963c255c6d1182ce0410a5ce2922d8b8.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "310-double-magazine-holder-basketweave-300x300",
+  "nameIsFixed": false,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35C95734-A046-4055-9982-2F21014CC8DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 384,
+            "enabled": 1,
+            "modelID": "constraint_279e3e72-d1ca-4295-b31e-91d34e3223dc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 384
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_a4fb2e18-ac44-44fa-8641-f6a7cfccb598",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_d494e811-7587-4814-aeae-9a479d7047cf",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_befe823c-863d-42b1-8193-999fde8f7ec5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_98835475-4c70-46d6-8b4d-f4c91b83f5d3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0.5
+          }
+        }
+      }
+    }
+  }
+}

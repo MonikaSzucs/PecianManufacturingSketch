@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "796B1EDA-84F5-4F20-B1C7-C0A5E5F9E3CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D13CC9C5-36B3-4DCE-A38B-0B171A849507",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A07BED31-92D8-49DF-893F-3C13083B0C62",
+    "height": 321,
+    "width": 321,
+    "x": 1,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/f39115ea3100e0845f69c006b4fa2770edc72d1a.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#390 Belt Keeper 1 inch (set of 2)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "009BD818-0BB8-47F8-8AD0-F5BE422815E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 321,
+            "enabled": 1,
+            "modelID": "constraint_0a6583fb-001e-422c-9523-e4df27dfb464",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 321
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_176caf1a-8679-49a4-ac13-8e94bc0bd03b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6152D44F-C39D-4F18-A6FC-8C1270C419E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85052150-45B8-410B-A53C-8ABA49C5F223",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BACED042-6EF0-4645-8A34-CC60559EB1C4",
+    "height": 1061,
+    "width": 1366,
+    "x": 552,
+    "y": 3205
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "439F52A8-AD51-41CE-83CC-F0992A3E2E05"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19996783-859C-48BB-B511-F052FA9B777C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A72BF760-18E6-4F31-BAA6-C1F18F7246B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E2FAEE0-9B88-4AAB-9ADE-951A4BE5068B"
+    },
+    {
+      "class": "text",
+      "id": "AB13215E-DE05-4EAF-9A84-D2F035C04B60"
+    },
+    {
+      "class": "text",
+      "id": "3894E628-7B70-450B-B013-60183B431635"
+    },
+    {
+      "class": "text",
+      "id": "915E857A-E612-492A-8639-6A2FE5DEB3AF"
+    },
+    {
+      "class": "text",
+      "id": "D7D5C616-28F0-4AA5-A643-25FAE49FA74A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B47D746C-99A9-4DAC-89E2-F15672958177"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB6CDBBF-2347-48E0-AB7B-95C502913E88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04695BF6-0D76-45EE-8110-0C6239E14E10"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0DD2B59D-2BAA-4A8D-AF8B-E5AFFC8FA3EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B79FB087-E771-4695-B7B7-D82A7155F368"
+    },
+    {
+      "class": "text",
+      "id": "4A1DF2AC-21F1-4196-8EBE-7A42B2123097"
+    },
+    {
+      "class": "text",
+      "id": "E1FFFBC3-DE5A-4016-B221-C6D1C3E879AF"
+    },
+    {
+      "class": "text",
+      "id": "87FA942E-7E42-4D7E-ACAE-67CDA8C0DFF7"
+    },
+    {
+      "class": "text",
+      "id": "42BF138E-20C0-4ABC-876E-2C88237A7705"
+    },
+    {
+      "class": "text",
+      "id": "AE91421B-0E24-4970-BFE9-44DD46BBF91F"
+    },
+    {
+      "class": "text",
+      "id": "35802673-D55D-4822-A6D0-BE665F6133A2"
+    }
+  ],
+  "name": "Our Proven Process Produces Results",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FA5E7AA-E717-41C7-BA55-038DA247DB3E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "29F92172-1A25-45B6-99A4-A235717C12AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16A439E7-3D3D-47CD-A814-7E39CBBBE313",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F5BD3954-512A-4FC8-B736-3F672A861188",
+    "height": 460,
+    "width": 460,
+    "x": 460,
+    "y": 460
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/fe3f238d09c2683a213db724ac7e6a7c05be2bf3.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "302-Double-Cuff-Holder-Basketweave-300x300",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5168F007-1949-4DE8-A99B-7FA0EEAB7C20",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 459,
+            "enabled": 1,
+            "modelID": "constraint_78d1608d-18cd-487a-aec6-6f0f59420d12",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 459
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_dcec1f1f-20fc-4025-baf8-6997c35c54e6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

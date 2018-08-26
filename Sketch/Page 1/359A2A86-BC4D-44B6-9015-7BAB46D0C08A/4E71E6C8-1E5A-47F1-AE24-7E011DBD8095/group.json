@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "4E71E6C8-1E5A-47F1-AE24-7E011DBD8095",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD86F2AB-98E4-42F4-9152-75F9CD65D230",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1E207C5-DAA8-4470-8455-7EEB28901973",
+    "height": 761,
+    "width": 408,
+    "x": 1446,
+    "y": 1280
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AFE27EAA-AD1F-45C8-BA3C-ED16162828A2"
+    },
+    {
+      "class": "text",
+      "id": "B9B8C764-87C0-49BA-A6C5-9C01F9437BB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2886BEE8-07E7-43BC-A7AA-BD62792542CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "987B5B3F-B4DA-4C69-A1A0-5546D3DC8002"
+    },
+    {
+      "class": "text",
+      "id": "1B18CF0E-1840-4F07-A04F-F88A524B82C8"
+    },
+    {
+      "class": "bitmap",
+      "id": "20251B2D-6726-49B3-AA82-3CA1F95F1C3A"
+    }
+  ],
+  "name": "Double Magazine Holder #310",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADB2A387-ED38-420A-9051-C69A5E6E1353",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

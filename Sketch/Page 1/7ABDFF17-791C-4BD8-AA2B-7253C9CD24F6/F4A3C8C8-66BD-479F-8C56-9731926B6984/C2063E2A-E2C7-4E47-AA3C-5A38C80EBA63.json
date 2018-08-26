@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C2063E2A-E2C7-4E47-AA3C-5A38C80EBA63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E9442C4-9B14-426C-8AC9-202EE1907746",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7D549330-372C-4DEF-86E7-80262C4F4BF0",
+    "height": 460,
+    "width": 460,
+    "x": 0,
+    "y": 460
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/b09e27b4c95105d862548de4e27bbbf1b7bcd127.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "200-and-205-Small-and-Big-Radio-Holder-Basketweave-300x300",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2667315D-DEF3-4215-AAB3-FF57FB243D81",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 459,
+            "enabled": 1,
+            "modelID": "constraint_8dbfe869-f472-4c56-a448-d836f5a0e9cd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 459
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_cc2d74ba-03c0-4c54-8e93-9aa14fccd61e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

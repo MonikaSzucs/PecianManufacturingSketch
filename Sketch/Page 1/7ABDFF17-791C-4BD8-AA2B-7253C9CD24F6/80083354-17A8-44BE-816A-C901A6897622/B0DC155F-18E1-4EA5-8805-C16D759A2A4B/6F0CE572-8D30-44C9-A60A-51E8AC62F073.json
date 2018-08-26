@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "6F0CE572-8D30-44C9-A60A-51E8AC62F073",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "54AC2EDF-52D8-4276-9238-C751D2A8E9DC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6BD5AC4C-A9E9-430D-9C5F-18849F561169",
+    "height": 81,
+    "width": 249,
+    "x": 271,
+    "y": 14
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/6593df0636667199af1ff86d7cbc2ae04804e5ae.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Trans-CAnada-Traffic-2.png-300x113",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E76F8D38-E16F-4F5A-B270-B9CDB1FFC22A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

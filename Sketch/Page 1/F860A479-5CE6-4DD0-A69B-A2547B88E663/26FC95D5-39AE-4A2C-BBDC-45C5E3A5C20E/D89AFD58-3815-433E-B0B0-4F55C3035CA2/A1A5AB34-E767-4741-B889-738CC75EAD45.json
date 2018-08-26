@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A1A5AB34-E767-4741-B889-738CC75EAD45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90C947C1-9C34-46AF-B7B9-934FD393E399",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FDF42401-BB0E-4035-A4E1-B69F0B1C391D",
+    "height": 384,
+    "width": 384,
+    "x": 0,
+    "y": 384
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/88a96ac63e211ae059245ff656036ad398a87973.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "301-Cover-Cuff-Holder-Basketweave-300x300",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87F71FF8-D56D-49C4-AAAE-91A795225E6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

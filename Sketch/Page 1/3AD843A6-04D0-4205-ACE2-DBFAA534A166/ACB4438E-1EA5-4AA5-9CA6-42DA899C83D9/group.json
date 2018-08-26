@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "ACB4438E-1EA5-4AA5-9CA6-42DA899C83D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81E1EBF2-3444-4489-96F3-821E442F5202",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0B77274-88A7-40F7-96F8-2BBCB61EAEBB",
+    "height": 550,
+    "width": 462,
+    "x": 1000,
+    "y": 3049
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E717C280-EF3F-420C-9995-5C252D91A2E6"
+    },
+    {
+      "class": "text",
+      "id": "69A8ABC1-1E44-4E8A-8612-664371FDDD09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3EB9A28-4447-4992-B50C-31E674DFEBE1"
+    },
+    {
+      "class": "text",
+      "id": "30E490DA-B04D-4529-968B-9B44310ABBE5"
+    }
+  ],
+  "name": "The Right Solution",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA469555-2715-4508-9A5F-E9786D2DE9A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

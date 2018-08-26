@@ -1,0 +1,121 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0909784C-1D72-487B-9D45-68A1898B8D17",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "86432350-8F6A-4B21-BA83-899E86DAE933",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6479D821-65E3-4493-8C2F-04E7DD53ED15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D41E8DB4-8CAB-4124-A7B1-5EC019E29DD6",
+    "height": 3415,
+    "width": 768,
+    "x": 15471,
+    "y": -1997
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E6B582C4-5015-4176-AE7C-1D7AA8B70F0A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3DAA8C77-AD48-4A4A-A931-A36A50BE6CBB"
+    },
+    {
+      "class": "group",
+      "id": "A80C5F3E-D5D1-4A21-8529-D27B65373867"
+    },
+    {
+      "class": "group",
+      "id": "030B4F52-645E-4B1E-AE1D-499682BFA477"
+    },
+    {
+      "class": "group",
+      "id": "95F56FB6-AF78-40A6-9656-9FC2D64C659F"
+    },
+    {
+      "class": "group",
+      "id": "643AF696-522E-4BF4-96A7-7D34EE36D7D4"
+    },
+    {
+      "class": "group",
+      "id": "4BFC04DA-115B-4621-9B3E-72C283E0AD07"
+    },
+    {
+      "class": "group",
+      "id": "682684A4-559D-4101-8432-5C628F11D29A"
+    },
+    {
+      "class": "bitmap",
+      "id": "70ADE44F-4C11-419E-9E4A-07A4E596004F"
+    },
+    {
+      "class": "group",
+      "id": "CFBC4BD9-1171-4501-B951-3CAE24AEF26C"
+    },
+    {
+      "class": "group",
+      "id": "1C02FF4A-9822-46B8-B752-317C761DD02F"
+    }
+  ],
+  "name": "Contact Us - Tablet",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6643BAD9-D797-4563-9059-B7D4F3589F8D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FDCE7BA6-3B57-4C42-9AF2-E6F9BD17422F",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "506E394B-6184-4B3E-8D3D-DC32C903FDB5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B72DE97-2604-4FDD-9EE4-595CCEC18DD4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EDF48CCE-B0FF-4C66-A452-B281AFA47FC0",
+    "height": 41,
+    "width": 202,
+    "x": 88,
+    "y": 708
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4b2a7cd3f0b280d85dd646b90c27449a366b96a3.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "GeoScientificLtd-300x113",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8FCEA25-D816-4ADA-9846-C022DECE7BA5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 41,
+            "enabled": 1,
+            "modelID": "constraint_8e17967a-1985-4086-bdaf-392ef0caa9b9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 202
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_880ebee5-f39a-481a-83a6-2a69de7d54ae",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

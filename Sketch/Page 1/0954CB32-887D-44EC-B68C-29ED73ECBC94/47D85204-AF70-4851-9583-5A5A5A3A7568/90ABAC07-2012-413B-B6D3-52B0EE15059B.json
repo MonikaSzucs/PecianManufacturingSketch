@@ -1,0 +1,81 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "90ABAC07-2012-413B-B6D3-52B0EE15059B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C93CC68-EF12-4AFC-9268-EE8F2E64E4C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "121A8320-6763-49E7-BB29-0799DC1D23E1",
+    "height": 249,
+    "width": 251,
+    "x": 27,
+    "y": 529
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d54f82291a2815553aa4411fd39bfa5a69f08b5c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "390-Belt-Keeper-Webbing-1inchSet-of-2-2-200x200",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "67D259E2-A17D-4C4A-84CD-870F52433E8E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 249,
+            "enabled": 1,
+            "modelID": "constraint_ad6a29df-bc48-4119-ad03-0617cec2659b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 251
+          },
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_9e7d312a-9fce-425d-b7e8-d368d369f2bd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_3b6974d0-f6ca-4ec4-80a9-20c79617248e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

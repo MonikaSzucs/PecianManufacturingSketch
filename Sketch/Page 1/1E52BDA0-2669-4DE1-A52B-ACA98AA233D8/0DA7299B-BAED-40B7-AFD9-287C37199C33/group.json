@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "0DA7299B-BAED-40B7-AFD9-287C37199C33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F34E9B1B-545E-4B76-BB5C-F2E633A8E043",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E865FF8-D2AE-4AAC-9943-F243724EB960",
+    "height": 55,
+    "width": 376,
+    "x": -1,
+    "y": 246
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "23DC07FC-8989-49CD-AE95-1B06F93B67AF"
+    },
+    {
+      "class": "text",
+      "id": "B86CCE04-00A8-412D-891A-5DEB3CF0FF96"
+    }
+  ],
+  "name": "Shop Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A99E70A-BC1D-4E82-AD43-F9411593823C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6E4E9E55-F609-4D75-8E4D-83CDBBB4FC0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71CD4E49-F852-4DF8-BA55-90E9CE584B48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EDE551CE-F96C-475C-BED3-3FFE05E1FBA3",
+    "height": 279,
+    "width": 321,
+    "x": 27,
+    "y": 333
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D3BF7D37-0893-4435-85D7-C1729DFACCE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3616293B-55A4-4A55-8F50-97ACA2116F5E"
+    }
+  ],
+  "name": "Our Mission",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "79998A48-6E88-4799-AFF9-900F7652416B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
