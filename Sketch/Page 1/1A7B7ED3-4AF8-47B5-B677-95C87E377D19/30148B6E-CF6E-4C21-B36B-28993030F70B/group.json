@@ -16,19 +16,23 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6EAFA957-8CCA-473C-903D-9F1B3531E446",
-    "height": 58,
-    "width": 655,
-    "x": 53,
-    "y": 30
+    "height": 115,
+    "width": 768,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
-  "isFixedToViewport": false,
+  "isFixedToViewport": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9BD16B32-1603-419A-BDE9-7E02E66FABE3"
+    },
     {
       "class": "bitmap",
       "id": "45C82C3B-64EE-434F-8774-16963520B107"
