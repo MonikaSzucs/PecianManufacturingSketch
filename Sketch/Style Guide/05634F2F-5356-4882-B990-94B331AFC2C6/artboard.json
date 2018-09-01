@@ -45,6 +45,14 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "bitmap",
+      "id": "9BBA066C-CC3F-4721-920F-909D27F99A86"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3799BF97-FB74-4727-86B7-2ECAF59EE216"
+    },
+    {
       "class": "text",
       "id": "515EA51F-BE3E-47D8-AC2B-38A065FC220C"
     },
@@ -63,6 +71,10 @@
     {
       "class": "text",
       "id": "7CC90B4B-568F-4973-8FEB-865E35C2A231"
+    },
+    {
+      "class": "group",
+      "id": "C033D6CC-EC4B-445E-A497-3C8DFB9BEC8C"
     }
   ],
   "name": "Page 1",
