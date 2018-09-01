@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "do_objectID": "6E22754D-20B2-40E0-A1F9-AD358C92EE96",
     "height": 107,
-    "width": 378,
-    "x": -1,
+    "width": 376,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -44,6 +44,10 @@
     {
       "class": "bitmap",
       "id": "B0E01212-CF9C-4079-BF45-CDCB8BE34C45"
+    },
+    {
+      "class": "text",
+      "id": "A484F5AA-D8FC-4267-92C2-1BE3997B9313"
     }
   ],
   "name": "Top Menu",

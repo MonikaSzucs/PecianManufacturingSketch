@@ -24,7 +24,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CA0D6D23-195A-4E80-B950-0A6108CF208E",
-    "height": 2245,
+    "height": 2213,
     "width": 375,
     "x": 9166,
     "y": -1997
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",

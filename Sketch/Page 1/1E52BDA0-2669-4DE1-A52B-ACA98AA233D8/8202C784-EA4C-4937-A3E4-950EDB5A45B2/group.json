@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "88CF1F1F-D008-456C-97E8-652EC6A5129C",
-    "height": 107,
-    "width": 378,
-    "x": -3,
-    "y": -1
+    "height": 105,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": true,
@@ -44,6 +44,10 @@
     {
       "class": "group",
       "id": "1CDA8A81-B963-4618-8ADC-2D629213797C"
+    },
+    {
+      "class": "text",
+      "id": "BCC30236-602D-4E3B-A606-D6403582A6AD"
     }
   ],
   "name": "Top Menu",

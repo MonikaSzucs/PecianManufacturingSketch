@@ -27,19 +27,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "bitmap",
       "id": "796B1EDA-84F5-4F20-B1C7-C0A5E5F9E3CF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "80A9CD65-840C-4909-B2DA-F20A4965AE68"
-    },
-    {
-      "class": "bitmap",
-      "id": "582E56ED-6BBA-46F6-9061-9986951980A7"
     },
     {
       "class": "shapeGroup",
@@ -54,16 +46,8 @@
       "id": "AC658FD5-3766-463D-89EA-18590E2402D8"
     },
     {
-      "class": "shapeGroup",
-      "id": "275423FE-887B-447F-80D5-9D117D6D0720"
-    },
-    {
       "class": "text",
       "id": "9B885471-EA87-4D34-AF8B-392073AF5F15"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D5269810-774A-4766-B58A-9B3CBC9A1B3F"
     },
     {
       "class": "shapeGroup",

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica-Bold",
-              "size": 25
+              "size": 30
             }
           },
           "paragraphStyle": {
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7BDF632E-A3CC-4F78-8971-7A01D7F93AA0",
-    "height": 26,
+    "height": 41,
     "width": 298,
-    "x": 39,
-    "y": 88
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{27, 5}, {244, 20}}",
+  "glyphBounds": "{{3, 6}, {293, 24}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -89,7 +89,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica-Bold",
-            "size": 25
+            "size": 30
           }
         },
         "paragraphStyle": {

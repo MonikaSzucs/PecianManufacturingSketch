@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C02D543A-DCBA-43ED-B49E-163CE851BC71",
-    "height": 793,
-    "width": 375,
-    "x": 0,
-    "y": 239
+    "height": 749,
+    "width": 298,
+    "x": 38,
+    "y": 248
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -27,12 +27,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "FB6B132D-CC0D-456A-A152-3561A86DFEF3"
-    },
     {
       "class": "shapeGroup",
       "id": "6959340F-DEE6-4EB5-9C63-0BC7B9140ED0"
