@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "7490ADBE-F875-47B8-A8D3-788B9AE18D01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06557568-D5F1-4153-9CE0-5FFC102EAFA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "86700588-32F3-4B2A-8C52-6CDF4B8884B6",
+    "height": 407,
+    "width": 407,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/74b80435ac3903505b449530409583175a464594.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#350 #351 #355 Flashlight Holder Ballistic and Basketweave",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "63DBC83E-FABA-4244-B8FC-70BB179EA283",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 407,
+            "enabled": 1,
+            "modelID": "constraint_6621adb3-61f8-43f8-ab92-9400a2744e00",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 407
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_445512f5-3f4d-4b5b-85ec-dfa91ca7cc15",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C52331FD-E8AC-4474-9F03-EA564DD0210A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "173B3237-9AA9-4329-B3AC-58BB90C4973B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "130DA2C3-469B-4E2B-816F-A6C3DB621706",
+    "height": 366,
+    "width": 365,
+    "x": 921,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/096d1ecd5b56f2902cd3b2b0a004c01a2ed6a405.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cordova1-300x300",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DEFE4AF4-35AD-496A-913B-A53E0D7C7FF6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 414,
+            "enabled": 1,
+            "modelID": "constraint_8d4daa65-6728-42a9-b4d0-e9d35d6e7959",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 414
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_a3f7e00e-67f7-4045-a527-359166c863dd",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

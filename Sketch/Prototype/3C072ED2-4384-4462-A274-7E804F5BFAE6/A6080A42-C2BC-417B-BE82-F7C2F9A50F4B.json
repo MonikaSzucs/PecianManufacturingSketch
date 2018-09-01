@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A6080A42-C2BC-417B-BE82-F7C2F9A50F4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3DB9B37F-31C0-4DE2-94A6-0CB9AE9F563E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "20CE93A6-FB80-4F8A-BA1E-4D757E3F964D",
+    "height": 99,
+    "width": 395,
+    "x": -10,
+    "y": 107
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1a81a275d41b158540ebb5b3305ee21efb36e712.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "skinny Banner",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49BC9D87-AE9C-4100-A57D-7F86D62CF59E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 99,
+            "enabled": 1,
+            "modelID": "constraint_531890d8-cf47-4af1-a5db-001e45e19541",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 395
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c63862fa-5cc5-4de7-b056-e22ce4d835d6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

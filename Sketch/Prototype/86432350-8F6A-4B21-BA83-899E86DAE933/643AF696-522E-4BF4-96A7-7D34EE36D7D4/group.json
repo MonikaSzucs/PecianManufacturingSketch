@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "643AF696-522E-4BF4-96A7-7D34EE36D7D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "293D0DB6-1B40-4F6C-93B9-27F1103B0E1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FA2E6386-C902-42F4-BEB3-D0D4A173A056",
+    "height": 149,
+    "width": 425,
+    "x": 172,
+    "y": 1219
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "834269C7-06E2-4297-A860-E1CE3361C672"
+    },
+    {
+      "class": "text",
+      "id": "49815A9B-2BF2-4603-B09D-10AF90CD3E09"
+    }
+  ],
+  "name": "Other Questions",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "088D8520-44ED-4FF1-89AA-D4EF8C74750D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

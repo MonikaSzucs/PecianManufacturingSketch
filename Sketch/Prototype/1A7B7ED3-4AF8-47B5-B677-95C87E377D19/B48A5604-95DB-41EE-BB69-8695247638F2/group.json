@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B48A5604-95DB-41EE-BB69-8695247638F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86309B1B-2AAA-43CE-8CB6-753718B8C6E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACD1C42E-B09A-4E36-B86B-DF2DF7A78CAF",
+    "height": 531,
+    "width": 322,
+    "x": 45,
+    "y": 522
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "1A1F8DB1-9AA8-4245-9B0B-F64BAE03FD64"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D131EE61-86F9-4EED-A0D6-42D4DC34A9C9"
+    },
+    {
+      "class": "text",
+      "id": "52877ED6-3DA5-4D58-BF29-1D01CF73D777"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F89298D-1D08-4E7C-8711-0CA666E013E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3CD3A6BC-8C4B-46D9-8CC5-69C6E6385D2D"
+    },
+    {
+      "class": "text",
+      "id": "F1236A65-7E39-44D9-B6A7-016194D6F2E8"
+    }
+  ],
+  "name": "Badge Holder",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75BB1C98-B049-42C4-895B-FFEECBE60085",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

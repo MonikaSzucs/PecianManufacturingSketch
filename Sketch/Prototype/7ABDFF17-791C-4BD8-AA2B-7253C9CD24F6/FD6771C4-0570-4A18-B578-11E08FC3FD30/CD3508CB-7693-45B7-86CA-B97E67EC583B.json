@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "CD3508CB-7693-45B7-86CA-B97E67EC583B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CCA48EA-EB52-40C8-9D5A-BDDEF9663BAF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5B51E8FF-F5F9-40AF-887E-51CEC4BC27BB",
+    "height": 348,
+    "width": 348,
+    "x": 890,
+    "y": 303
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/8fef14f299672ce402df6bc2994ffb637e4711ff.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "301-Cover-Cuff-Holder-Basketweave-or-ballistic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53998067-DD27-4F66-89E4-284C8C48A1C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 348,
+            "enabled": 1,
+            "modelID": "constraint_d3973c5c-917c-4a8e-934e-fea44a7b737e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 348
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_52925f72-ce82-4f1f-b1de-90e506827c5c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

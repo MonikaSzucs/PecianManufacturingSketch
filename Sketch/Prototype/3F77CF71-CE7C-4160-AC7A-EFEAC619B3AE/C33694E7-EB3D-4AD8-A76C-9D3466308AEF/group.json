@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "C33694E7-EB3D-4AD8-A76C-9D3466308AEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "298679B3-FCA0-4E16-B41B-17A5A2C94AB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E7A627C-790A-46E0-92D2-0F1105DE4858",
+    "height": 258,
+    "width": 305,
+    "x": 35,
+    "y": 543
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1BA1942E-C3AD-40DA-BAD7-A3C15BFC90BE"
+    },
+    {
+      "class": "bitmap",
+      "id": "2F7C1B39-3085-4785-8385-B7BF3B537226"
+    }
+  ],
+  "name": "Pecian Manufacturing Address",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "029A7567-8C6B-45B2-B61A-E356F1F9D3E0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

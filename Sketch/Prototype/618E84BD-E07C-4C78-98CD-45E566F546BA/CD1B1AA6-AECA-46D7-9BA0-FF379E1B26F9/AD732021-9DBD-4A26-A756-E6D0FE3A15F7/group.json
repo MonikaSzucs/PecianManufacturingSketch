@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "AD732021-9DBD-4A26-A756-E6D0FE3A15F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A140FCB8-9534-4684-97CB-F2B2E75CC35D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB47788D-4B52-45F7-A0DD-53860DB3EADE",
+    "height": 920,
+    "width": 1378,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "7F6C47D9-383C-437A-960E-9177CFF10FEA"
+    },
+    {
+      "class": "bitmap",
+      "id": "51ACD1C0-0093-4DD4-B3E8-57937CABC3B0"
+    },
+    {
+      "class": "bitmap",
+      "id": "7EB61B04-57E5-463E-AD66-66A43903A351"
+    },
+    {
+      "class": "bitmap",
+      "id": "9F68B68E-4DF5-451B-A014-F98610E101D6"
+    },
+    {
+      "class": "bitmap",
+      "id": "E1576EC9-15AC-45D6-8FF5-6E988C506104"
+    },
+    {
+      "class": "bitmap",
+      "id": "7F2515A8-8104-468F-AE1C-1D5AF955B116"
+    }
+  ],
+  "name": "Banner Images",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3681662-7AD1-43AE-BFC6-FF64A4104344",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

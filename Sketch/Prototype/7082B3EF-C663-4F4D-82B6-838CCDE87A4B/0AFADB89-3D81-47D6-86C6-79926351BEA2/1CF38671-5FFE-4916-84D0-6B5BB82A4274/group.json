@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1CF38671-5FFE-4916-84D0-6B5BB82A4274",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "983F275B-0574-48B8-A2F3-26265853289F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E33AD16E-7EC7-43AD-B40F-2A91A2CF695B",
+    "height": 41,
+    "width": 47,
+    "x": 561,
+    "y": 43
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "988A62FC-96C2-4796-82D5-73495B8732BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BFE614B8-7115-4722-902E-5E271FD96520"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A8AD4472-F832-47C7-8FAD-A1F85F48D36E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D80834AC-659C-43D6-8BDF-68897A875F22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "53AF4F6C-8087-4688-B98C-2650032D1AC5"
+    }
+  ],
+  "name": "Shopping Cart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7E9BC21-1E8E-43A4-9F62-D8F5A5DF86E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_9e6dbafe-84d2-4f5e-ba37-7a4b76a23f3b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 45,
+            "enabled": 1,
+            "modelID": "constraint_6177ff93-4c1f-40af-a1c6-c70ee71b9070",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 29,
+            "enabled": 1,
+            "modelID": "constraint_06b89cc6-932b-4152-bd9b-b12380acf04b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "isFixedPosition": 1
+      }
+    }
+  }
+}

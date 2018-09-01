@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "88CEA5B5-A6C0-4D0C-80C0-6B0CDDFFFCC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E955504-5838-4E19-A5E0-3E410FD1E13B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BC786F55-EFD4-42F7-A134-1E6792287907",
+    "height": 325,
+    "width": 322,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/480918eee5713e3b276e92b3997eb4bf7ffcdd34.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "302 Double Cuff Holdler Pecian Manufacturing",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "41B01600-A00A-4BEE-A1CD-18FDE76BF9A7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 325,
+            "enabled": 1,
+            "modelID": "constraint_0f592a11-3222-4de2-9f9b-03f01e617d0a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 322
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5c379e6b-50b7-4228-b6cb-aaf954caf4f4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

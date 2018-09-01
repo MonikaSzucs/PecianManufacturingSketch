@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8E731052-5A6F-40CB-BBCE-19344774A23F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6108D4C-61F8-43FC-A141-4F7AD5DA60ED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F63A230-7D48-40C8-9908-7CD886531F86",
+    "height": 49,
+    "width": 58,
+    "x": 228,
+    "y": 584
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C7DA1B8F-DAA4-4990-8019-3684CC2AA72F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22790AE8-E939-410E-9FF6-7F46DEFD54ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF216034-1082-4F11-809B-9A14ECCF8487"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A547740-475A-49A7-B901-37564FAFB811"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "988E8684-AC86-42A5-9268-3A47495794D2"
+    }
+  ],
+  "name": "Shopping Cart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7E1D4A5-0B8A-4CDB-979E-58F8BFB7761B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

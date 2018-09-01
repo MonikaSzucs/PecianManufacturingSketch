@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "7DDDE3A0-2DD7-49AC-8360-61DADD20D7F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A06D0CA-1449-48BD-9563-BE0E0FC1C6E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F3922850-3E04-4096-841F-3DB3C69C1774",
+    "height": 129,
+    "width": 427,
+    "x": 58,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7cdf6167a70cb01816b27dc3e17b6f91a5da4693.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DesktopLogo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F610988-362F-4630-B492-D75096A25B9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 129,
+            "enabled": 1,
+            "modelID": "constraint_e771856a-efd1-4de6-866b-4ebb47e9efa1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 427
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_baabb364-d935-4109-99ac-b3d5421fb665",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

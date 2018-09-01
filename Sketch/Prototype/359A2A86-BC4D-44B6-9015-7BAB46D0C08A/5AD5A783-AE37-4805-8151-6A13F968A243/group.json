@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5AD5A783-AE37-4805-8151-6A13F968A243",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DEB3BEF3-E84A-48B8-8E75-26C0886A1CD4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E22D1394-240F-4162-BA61-561BA5A9611B",
+    "height": 673,
+    "width": 408,
+    "x": 1446,
+    "y": 518
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "8D97AD5B-0D67-4392-A932-C1E10F8B6E59"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0D07595-9A59-4A83-9FDF-19A6A56D2C95"
+    },
+    {
+      "class": "text",
+      "id": "6F9C0A83-B4EC-4EDA-8829-81BCACD16BD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB181AC6-BEDB-4685-9CBA-15468A196212"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "17E1EE4B-41C8-4677-93A8-83223EB7ED63"
+    },
+    {
+      "class": "text",
+      "id": "12E70057-6768-4BFD-A247-B607CA1F6CC2"
+    }
+  ],
+  "name": "Cheap Inner Belts #100",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6793586-DF52-4D83-9D5D-57CC0C122FAB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

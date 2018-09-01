@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "4E56BA5B-2E8A-4093-AB0D-CFB5B9030CDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A85FC3F7-C388-4FE1-AC68-00C6D1D1101C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "143A94D9-13EC-4C1A-A93B-66AEE82F3B1A",
+    "height": 113,
+    "width": 300,
+    "x": 93,
+    "y": 1122
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/81a9e8db7c72c1f52d377c7ea27aef5bcb320a77.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Hitfar-300x113",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BF24B01-18C2-41CC-A3D6-012F6E385AAF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "CFBC4BD9-1171-4501-B951-3CAE24AEF26C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E48FE26-32FB-496E-8F75-D54EA4450BDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4215B89C-6CD7-4C6E-8648-18B534ECF7A9",
+    "height": 89,
+    "width": 813,
+    "x": -32,
+    "y": 150
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7929C3BB-7F30-4843-8D01-1EFAF45AB3EC"
+    },
+    {
+      "class": "text",
+      "id": "099FAAA3-90BF-49AC-87E6-D66ABABF33A8"
+    }
+  ],
+  "name": "Contact Us Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F722720F-0A9E-4CB0-AAFA-816E8E591D45",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

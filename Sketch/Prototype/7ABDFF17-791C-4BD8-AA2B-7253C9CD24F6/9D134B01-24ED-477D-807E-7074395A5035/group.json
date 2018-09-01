@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "9D134B01-24ED-477D-807E-7074395A5035",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AA70DE7-03D0-435E-AC95-8DF35DD199C6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2317F6BE-94BA-4587-A0DC-F9388385237B",
+    "height": 639,
+    "width": 1290,
+    "x": 589,
+    "y": 1451
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "DB550E13-B9DC-4D9F-99C6-8804E783E506"
+    },
+    {
+      "class": "text",
+      "id": "56D630B5-C1EF-42DD-A52A-64199C6035FC"
+    },
+    {
+      "class": "text",
+      "id": "05C8EDC1-868C-4FB8-908A-41C159F605A8"
+    },
+    {
+      "class": "text",
+      "id": "DA1AB93F-9E22-4D5F-85F7-3AB5C1139558"
+    },
+    {
+      "class": "text",
+      "id": "A50B0B89-A3F3-43A2-941E-85C92D99E257"
+    },
+    {
+      "class": "text",
+      "id": "86595EA2-7373-4701-A5BE-8F6EDEA56E3B"
+    },
+    {
+      "class": "text",
+      "id": "1208CA4E-4D1F-4C7C-AC0B-FAA2A1EC82CD"
+    },
+    {
+      "class": "bitmap",
+      "id": "E7A20B35-4AA0-4443-B13B-E34A6356F49E"
+    },
+    {
+      "class": "bitmap",
+      "id": "C52331FD-E8AC-4474-9F03-EA564DD0210A"
+    }
+  ],
+  "name": "Categories",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A10BCDC1-051A-4DC7-BE48-4A35983517CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

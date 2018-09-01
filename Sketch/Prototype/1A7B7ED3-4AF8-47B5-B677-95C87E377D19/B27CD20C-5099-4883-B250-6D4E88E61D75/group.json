@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B27CD20C-5099-4883-B250-6D4E88E61D75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B840F96C-5BC8-4394-B4AE-F5A1D753A822",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF0F72FB-449D-4C98-A48C-256844478083",
+    "height": 69,
+    "width": 45,
+    "x": 305,
+    "y": 403
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7A4DAD54-97CE-4543-ABAF-3B48C998287F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "419FCDC6-EAD6-454C-BE89-82E0EACCDF43"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "924DEF80-9A9C-44E3-A23C-138AD6BE8C2B"
+    }
+  ],
+  "name": "Down Arrow",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C45E4CE1-C1FE-489F-866C-315E05775049",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

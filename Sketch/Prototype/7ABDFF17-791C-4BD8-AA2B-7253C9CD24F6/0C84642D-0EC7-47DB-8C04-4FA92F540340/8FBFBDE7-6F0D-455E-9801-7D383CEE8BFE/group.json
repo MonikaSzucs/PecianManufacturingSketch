@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8FBFBDE7-6F0D-455E-9801-7D383CEE8BFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD3EBDF8-0DF6-4036-85A0-7DEC9081BF56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3B748040-D298-4532-BD4A-070A855D8FF5",
+    "height": 49,
+    "width": 58,
+    "x": 228,
+    "y": 685
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7599FF51-825B-40D9-83FC-DC0250F4297B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6145E384-38C2-4D99-B5E9-C364AB7F209B"
+    }
+  ],
+  "name": "Search",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01EB01B3-51F4-4BAB-A004-9714C0442649",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 242,
+            "enabled": 1,
+            "modelID": "constraint_bde12376-996c-4ee7-8f8d-c53c9372e6de",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_02306ded-d93e-4fc5-bfd2-2e58837ff1fb",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "top": {
+            "constant": 761,
+            "enabled": 1,
+            "modelID": "constraint_87e5f741-ed81-4441-8f27-0d745d419f31",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  }
+}

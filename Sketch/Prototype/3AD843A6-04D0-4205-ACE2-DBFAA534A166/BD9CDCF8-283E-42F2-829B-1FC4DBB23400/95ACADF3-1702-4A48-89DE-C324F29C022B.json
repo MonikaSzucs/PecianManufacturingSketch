@@ -1,0 +1,79 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "95ACADF3-1702-4A48-89DE-C324F29C022B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04ABA0E6-8BE9-481C-A64F-3527874570C4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "7ABDFF17-791C-4BD8-AA2B-7253C9CD24F6",
+    "do_objectID": "D67D2D62-303F-4E0C-A58B-7B23EB770922"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2A7F97F6-FE29-4F74-BB73-B8ECD6E0B782",
+    "height": 113,
+    "width": 295.8520179372197,
+    "x": 108.5739910313901,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1133a1a111903b894294016ff84518f2cfe1a88c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DesktopLogo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "62EDD98D-D43B-4B56-BA3D-BC8CD0E2EF97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 113,
+            "enabled": 1,
+            "modelID": "constraint_e771856a-efd1-4de6-866b-4ebb47e9efa1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 377
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_baabb364-d935-4109-99ac-b3d5421fb665",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

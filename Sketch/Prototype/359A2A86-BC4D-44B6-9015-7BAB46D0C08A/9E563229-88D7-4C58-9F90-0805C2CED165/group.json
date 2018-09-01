@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "9E563229-88D7-4C58-9F90-0805C2CED165",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9266110B-C4E7-4B07-9E31-C4D60C23C9B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F45DE0E-BC82-4183-80E1-A41501E21E88",
+    "height": 762,
+    "width": 409,
+    "x": 576,
+    "y": 1279
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2354DF08-773C-4D39-A2D2-F1427406F56A"
+    },
+    {
+      "class": "text",
+      "id": "BCB71474-CEDB-48CE-AFBA-1AD62D55C474"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DAC22075-3580-4CE7-B4DC-FD759D21BA2E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "83587B4D-76CA-46D6-8B18-2BA7829F137A"
+    },
+    {
+      "class": "text",
+      "id": "22D8156F-861F-4FB2-A64A-7B2CCE15F85B"
+    },
+    {
+      "class": "bitmap",
+      "id": "2F14A8D3-C04C-4021-A2A6-A06A0B3624D8"
+    }
+  ],
+  "name": "Double Cuff Holder Ballistic #302",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B642E798-BC0E-4C26-8BA4-9CE3890C29AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

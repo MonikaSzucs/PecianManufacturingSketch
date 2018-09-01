@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "8D293FA1-AE40-4F15-A7D4-EEF80BB0E0F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0FE439A2-842E-44A1-A081-FC67D5E49078",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FAD2CF6D-F8AB-4200-95C3-F42897EC6802",
+    "height": 113,
+    "width": 300,
+    "x": 34,
+    "y": 520
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/775e044d520793e5b8c59f6f77a5d2021b6061d9.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tactical-Advantage-300x113",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "277AC20B-918D-4F19-BD51-4F65991E2A96",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

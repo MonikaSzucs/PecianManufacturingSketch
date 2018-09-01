@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A60DB079-0F7A-4C01-BEA0-DF5EB5D32560",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B40FA8E-D3CA-4857-8B9E-93AF8D9E69AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "back",
+    "do_objectID": "9A42EE78-A13A-459C-BB05-A420CE3EFD62"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3927F43E-0245-4EF2-A489-85A3B38A5DCB",
+    "height": 45,
+    "width": 46,
+    "x": 673,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C5CFF632-86A0-4C5E-B3DE-B716BEBC3926"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "575B12AC-E04A-4B10-BED9-050FF9EB1EB3"
+    }
+  ],
+  "name": "Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F175F2B9-F884-4469-BE61-2A7F6F45DE28",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

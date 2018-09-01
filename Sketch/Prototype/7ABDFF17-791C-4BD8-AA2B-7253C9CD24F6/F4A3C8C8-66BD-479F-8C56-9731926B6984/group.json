@@ -1,0 +1,112 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F4A3C8C8-66BD-479F-8C56-9731926B6984",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "499FCD06-530F-4C03-9669-46DEBA9D4D47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9438BBFB-502F-456E-9CB4-734A20F3F36E",
+    "height": 1380,
+    "width": 1378,
+    "x": 542,
+    "y": -8
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C2063E2A-E2C7-4E47-AA3C-5A38C80EBA63"
+    },
+    {
+      "class": "bitmap",
+      "id": "29F92172-1A25-45B6-99A4-A235717C12AD"
+    },
+    {
+      "class": "bitmap",
+      "id": "2D904EC5-0D55-4872-B407-73FCFDC0DE1A"
+    },
+    {
+      "class": "bitmap",
+      "id": "0ED07432-7EA6-47EE-9F72-13A0F9851FE7"
+    },
+    {
+      "class": "bitmap",
+      "id": "AC319C18-C5AE-4249-AA2D-69A13B936133"
+    },
+    {
+      "class": "bitmap",
+      "id": "9CE9AC68-EB0C-4657-84CA-67E8A9CA6964"
+    },
+    {
+      "class": "bitmap",
+      "id": "8E1A757E-1E13-41DA-A9F5-9C9E3B1344C4"
+    },
+    {
+      "class": "bitmap",
+      "id": "2CEE5709-B8F1-4DD4-8941-3BBF9CD85D7C"
+    },
+    {
+      "class": "bitmap",
+      "id": "76A09A2E-C08C-412F-B2B3-46D1B40493A6"
+    }
+  ],
+  "name": "Banner Images",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50FAF253-7D66-49EC-B19A-ED0053BB0CA6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 542,
+            "enabled": 1,
+            "modelID": "constraint_9c416e0d-5561-490c-a751-54a9e7e09311",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_df8ac1f3-e872-4a58-ab00-0acc0e1a179e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_ed2b2efa-7e75-46b1-ac18-436f092b74b6",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

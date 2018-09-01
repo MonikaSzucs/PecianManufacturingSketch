@@ -1,0 +1,89 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "26CD767C-FB21-48E2-A970-19081D0F2459",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "EB101490-0DAD-4346-BA20-B0123632F866",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A31E03C-A095-47E3-9403-6C4AE091754B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8CC4F07-C391-4EBD-B9E2-9291037DD1C8",
+    "height": 2713,
+    "width": 1920,
+    "x": 13180,
+    "y": -540
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BC45F810-711C-4024-9EFC-B44DED8DDF9C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "233E300E-1FEC-4A07-AE13-2CA3FAA24CB7"
+    },
+    {
+      "class": "text",
+      "id": "EDE59572-03D1-4506-BBAA-CBBC9335FC1D"
+    }
+  ],
+  "name": "Page 8",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Apple TV",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "07132088-ED57-42DD-A427-9D2AE875ECFE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ECACEA37-7DFB-4219-9965-FA2B6523DEB6",
+    "guides": [
+    ]
+  }
+}

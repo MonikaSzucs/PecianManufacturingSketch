@@ -1,0 +1,97 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "B0E01212-CF9C-4079-BF45-CDCB8BE34C45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C69BA52-CB58-48DB-86F0-C8DB69CB8D91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C2935B39-4C13-4E51-B4DB-7EF2CBC67A59",
+    "height": 40,
+    "width": 128,
+    "x": 17,
+    "y": 25
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/7cdf6167a70cb01816b27dc3e17b6f91a5da4693.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "DesktopLogo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6D97E00-FBA0-4FF7-B337-CABA03F51F0A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 51,
+            "enabled": 1,
+            "modelID": "constraint_aee0cfa7-36c1-4e51-a1ba-63c3446f2c9c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 163.2936
+          },
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": -92.85321,
+            "enabled": 1,
+            "modelID": "constraint_561ab8bf-d067-45cf-b3b1-8982fdabc17a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "left": {
+            "constant": 13,
+            "enabled": 1,
+            "modelID": "constraint_cda47c87-6929-4dff-ad8c-3ee235cd51ca",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_984963d2-d1ab-4689-9307-b7e296120ade",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "top": {
+            "constant": 30,
+            "enabled": 1,
+            "modelID": "constraint_dfae7b9e-7621-40c7-af97-ef2f20f7f1ea",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  }
+}

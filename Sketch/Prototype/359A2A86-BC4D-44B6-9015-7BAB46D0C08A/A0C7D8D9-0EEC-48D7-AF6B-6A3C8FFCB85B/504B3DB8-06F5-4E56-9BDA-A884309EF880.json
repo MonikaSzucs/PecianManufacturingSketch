@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "504B3DB8-06F5-4E56-9BDA-A884309EF880",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DA86300-882D-4D1D-85BD-1ADF2798105A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FB9AC3DD-C88F-4A92-8EF9-C49AE50A9359",
+    "height": 407,
+    "width": 407,
+    "x": 1,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/94b93042ec50e0380c23322c55158d8671c73358.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#370 Glove Pouch cordura or ballistic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "562EB3C1-A8DC-4B23-B96B-BE71EC90AB97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 407,
+            "enabled": 1,
+            "modelID": "constraint_f081b109-8c6e-4974-be00-ea363aa18018",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 407
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d5265f3c-534f-4930-a0de-4f9bd7e69496",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

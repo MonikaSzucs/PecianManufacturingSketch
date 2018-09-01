@@ -1,0 +1,81 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D12786CB-75D5-4465-B4D0-3C972AA64684",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20751573-42E8-4446-8D50-2EBB2B4082EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C5EB3646-02E8-43FB-9465-B3EF57471710",
+    "height": 249,
+    "width": 251,
+    "x": 23,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/9aa1cebe4ec84f4237261aec80ae2a13e1eb5893.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "340-Pepper-Spray-Basketweave-1-300x300",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C990E85-8066-4B85-BE06-9D5EF9D0611D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 249,
+            "enabled": 1,
+            "modelID": "constraint_52b6a4e5-c6fc-4f25-8098-8686b54443ef",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 251
+          },
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_2190618e-40c7-4df7-9e94-9aa24bd81e07",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_56ffa338-64bb-41eb-8821-929dae689495",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
