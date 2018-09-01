@@ -14,14 +14,20 @@
     "shouldTrim": false
   },
   "fillReplacesImage": false,
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "156D2DB7-2C9F-4265-9920-F0D53D9AAD2B",
+    "do_objectID": "55C5AD35-744F-4D06-B495-6F445DE0D7D8"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "8BC75A25-123F-4B5C-A40B-86BA472026FE",
-    "height": 55,
-    "width": 175,
-    "x": 53,
-    "y": 30
+    "height": 68,
+    "width": 216.3636363636363,
+    "x": 20,
+    "y": 25
   },
   "image": {
     "_class": "MSJSONFileReference",

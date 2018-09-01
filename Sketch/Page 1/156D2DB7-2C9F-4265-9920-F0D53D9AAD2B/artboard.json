@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -75,10 +75,6 @@
     {
       "class": "group",
       "id": "B0B62048-4FFE-49C9-B61A-41645328B433"
-    },
-    {
-      "class": "group",
-      "id": "F9E6CAED-EF90-49EA-8896-BBC9FBCB6FD8"
     },
     {
       "class": "text",

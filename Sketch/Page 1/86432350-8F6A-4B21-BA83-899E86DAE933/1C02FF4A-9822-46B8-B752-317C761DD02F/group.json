@@ -44,6 +44,10 @@
     {
       "class": "group",
       "id": "00802F2B-3440-461B-9021-88FAE4C86C80"
+    },
+    {
+      "class": "text",
+      "id": "2FFAB7F6-63D7-4835-AC0E-46635CF7379F"
     }
   ],
   "name": "Top Menu",

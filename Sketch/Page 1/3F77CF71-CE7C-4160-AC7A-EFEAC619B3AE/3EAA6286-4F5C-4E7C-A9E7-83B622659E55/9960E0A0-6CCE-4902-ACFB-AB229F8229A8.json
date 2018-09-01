@@ -14,6 +14,12 @@
     "shouldTrim": false
   },
   "fillReplacesImage": false,
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "0954CB32-887D-44EC-B68C-29ED73ECBC94",
+    "do_objectID": "43241B49-34D1-4731-933E-A91C181BBB74"
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": true,

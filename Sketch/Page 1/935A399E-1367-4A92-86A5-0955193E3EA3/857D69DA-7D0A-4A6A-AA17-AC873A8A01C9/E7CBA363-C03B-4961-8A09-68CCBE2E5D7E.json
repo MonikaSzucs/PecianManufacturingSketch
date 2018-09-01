@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "OpenSans-Regular",
-              "size": 30
+              "size": 28
             }
           },
           "paragraphStyle": {
@@ -52,9 +52,9 @@
     "height": 95,
     "width": 495,
     "x": 137,
-    "y": 181
+    "y": 183
   },
-  "glyphBounds": "{{54, 9}, {386, 72}}",
+  "glyphBounds": "{{67, 8}, {360, 67}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -89,7 +89,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "OpenSans-Regular",
-            "size": 30
+            "size": 28
           }
         },
         "paragraphStyle": {

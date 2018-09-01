@@ -49,10 +49,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1843AC9B-1D16-4302-978F-D721FBDB8437",
-    "height": 272,
+    "height": 274,
     "width": 176,
     "x": 39,
-    "y": 166
+    "y": 167
   },
   "glyphBounds": "{{4, 5}, {168, 210}}",
   "isFixedToViewport": false,

@@ -18,8 +18,8 @@
     "do_objectID": "9D72C877-885F-4EAC-BB84-93CBC2EC74A2",
     "height": 41,
     "width": 47,
-    "x": 561,
-    "y": 32
+    "x": 563,
+    "y": 39
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

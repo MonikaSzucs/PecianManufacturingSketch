@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9438BBFB-502F-456E-9CB4-734A20F3F36E",
-    "height": 1381,
+    "height": 1380,
     "width": 1378,
     "x": 542,
     "y": -8
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",

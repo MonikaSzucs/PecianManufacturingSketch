@@ -17,14 +17,14 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 28
+              "size": 20
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 36,
-            "minimumLineHeight": 36
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           }
         },
         "length": 58,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AE639E9F-D2AA-4156-984D-1FAD9FEA92BD",
-    "height": 83,
+    "height": 64,
     "width": 421,
-    "x": 174,
-    "y": 3642
+    "x": 162,
+    "y": 3363
   },
-  "glyphBounds": "{{26, 5}, {369, 64}}",
+  "glyphBounds": "{{79, 4}, {263, 48}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -91,14 +91,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 28
+            "size": 20
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 36,
-          "minimumLineHeight": 36
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         }
       },
       "verticalAlignment": 0

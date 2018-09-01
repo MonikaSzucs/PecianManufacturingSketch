@@ -24,13 +24,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "01CF8BE8-2831-4498-B5EA-C2DC3D973A77",
-    "height": 6888,
+    "height": 7006,
     "width": 1920,
     "x": -2542,
     "y": -1982
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,10 +48,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "group",
-      "id": "39E3B350-71B9-4C89-A97C-BC683D1C5C27"
-    },
     {
       "class": "group",
       "id": "53229ECE-FDC0-4118-B259-E5023F45B86A"
