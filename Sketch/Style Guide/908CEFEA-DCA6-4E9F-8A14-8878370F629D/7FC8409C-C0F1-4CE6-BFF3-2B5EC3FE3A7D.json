@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "7FC8409C-C0F1-4CE6-BFF3-2B5EC3FE3A7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5482320A-1B1B-41F8-A102-9784AFE82DC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E4312ABE-56AC-478D-8DDF-3D81505D7FEA",
+    "height": 8.35,
+    "width": 196.225,
+    "x": 207,
+    "y": 1692
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/015015254bb813b7e0638e2d87f17938eb8103bc.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "LightGoldOneLine",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2471EC8-F8D9-4294-9ECB-E1749C30E274",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

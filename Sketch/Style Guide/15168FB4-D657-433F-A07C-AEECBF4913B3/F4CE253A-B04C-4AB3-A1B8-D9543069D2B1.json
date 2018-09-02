@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "F4CE253A-B04C-4AB3-A1B8-D9543069D2B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7DAECCB3-45F8-4E8C-96E1-6E7B398CB898",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "94563D4E-493C-42CF-859C-8C3A863D5CD7",
+    "height": 359,
+    "width": 753,
+    "x": 344,
+    "y": 355
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a941a76bfd22bb24613af399f1b96bc6c9e09c8a.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Pecian Manugacturing logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADB24F28-DAB3-4D80-9E4C-25798C203520",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

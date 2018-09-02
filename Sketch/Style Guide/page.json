@@ -36,103 +36,15 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "05634F2F-5356-4882-B990-94B331AFC2C6"
+      "id": "15168FB4-D657-433F-A07C-AEECBF4913B3"
     },
     {
       "class": "artboard",
-      "id": "BAC9E385-888C-43F8-A2D6-77FCDBCE8781"
+      "id": "24A68F52-FF98-438D-B0D8-91A0DA7464E5"
     },
     {
       "class": "artboard",
-      "id": "7B3227DA-788D-49D8-BEF3-DB6F621A0A25"
-    },
-    {
-      "class": "artboard",
-      "id": "3CCE9FBD-42B9-4838-8061-DF9BB6D94AF5"
-    },
-    {
-      "class": "artboard",
-      "id": "A589DE6A-9A01-4933-9FFF-983DF86BC27A"
-    },
-    {
-      "class": "artboard",
-      "id": "52FAF19E-D701-4B99-A758-E68922CBBB30"
-    },
-    {
-      "class": "artboard",
-      "id": "127A7BA1-18ED-48FB-A4E5-2890452A4945"
-    },
-    {
-      "class": "artboard",
-      "id": "EB101490-0DAD-4346-BA20-B0123632F866"
-    },
-    {
-      "class": "artboard",
-      "id": "54661ADB-FFB2-491D-AF85-089364166C06"
-    },
-    {
-      "class": "artboard",
-      "id": "62252E73-6BA2-45F8-B15B-83ECDF3671F4"
-    },
-    {
-      "class": "artboard",
-      "id": "5E6FD91E-171A-417A-928B-79817D5195D8"
-    },
-    {
-      "class": "artboard",
-      "id": "ADE5C619-3947-4A20-AFB1-56D4212D5971"
-    },
-    {
-      "class": "artboard",
-      "id": "EEF24703-D06D-4CA9-9B73-A9EE44F42DB9"
-    },
-    {
-      "class": "artboard",
-      "id": "258EB215-738D-4ED6-95FE-981A91C7AADF"
-    },
-    {
-      "class": "artboard",
-      "id": "393343F4-29DA-45D5-9F0C-8DFE8A8AFDDB"
-    },
-    {
-      "class": "artboard",
-      "id": "1BB79BF6-ABFF-40C0-B89A-29114E8FE2B5"
-    },
-    {
-      "class": "artboard",
-      "id": "5DD9433A-FD49-47BA-8827-30E9CCE53161"
-    },
-    {
-      "class": "artboard",
-      "id": "35A5FBFB-0FD1-4FB1-ACC4-9F12D37CB788"
-    },
-    {
-      "class": "artboard",
-      "id": "4AD398D9-CC03-45B1-9235-0F67AE3A3C82"
-    },
-    {
-      "class": "artboard",
-      "id": "B2F5C9A8-4A3E-4ACE-A8A8-F18E503E8D6C"
-    },
-    {
-      "class": "artboard",
-      "id": "86CF2AA5-0CB3-40D5-91CE-0BCA62A4EA57"
-    },
-    {
-      "class": "artboard",
-      "id": "EE46E198-5F32-4154-9680-AF47886D2907"
-    },
-    {
-      "class": "artboard",
-      "id": "03AADFA3-1FC4-48E5-930F-907C669E9193"
-    },
-    {
-      "class": "artboard",
-      "id": "61E9916D-56F9-4F7B-97CD-A02010AD9275"
-    },
-    {
-      "class": "artboard",
-      "id": "679F0B24-D052-4935-B053-D3B3B47E2945"
+      "id": "908CEFEA-DCA6-4E9F-8A14-8878370F629D"
     }
   ],
   "name": "Style Guide",

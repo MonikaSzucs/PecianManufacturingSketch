@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B9AE5F45-0D8F-45C3-BD4B-C0C964FCEBE1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "24A68F52-FF98-438D-B0D8-91A0DA7464E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13CD9874-D9D1-4AE1-9330-643AB1543BE0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA55D8BC-0B45-4B66-B366-FB519540BD1E",
+    "height": 1920,
+    "width": 2713,
+    "x": 1863,
+    "y": 1287
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "543B9E24-1B85-4C38-BD97-603D01E6F2AD",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C58C12A2-BD24-4112-BA17-C08F3DA2C43D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "54F7303C-91C4-4B4A-9819-51E6EE46F60F"
+    },
+    {
+      "class": "bitmap",
+      "id": "7DB320B6-AB4F-4046-A69D-2B41B8868123"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "439D0340-4C01-4344-92F0-35777CE576A1"
+    },
+    {
+      "class": "text",
+      "id": "2D2B95C8-AA5C-457F-9913-DAEB52D52A88"
+    },
+    {
+      "class": "text",
+      "id": "69E868DC-A0AB-4236-B03A-07220C86D730"
+    },
+    {
+      "class": "text",
+      "id": "AB9AE281-199F-4728-B50F-2FCD4D4CA33B"
+    },
+    {
+      "class": "text",
+      "id": "7F36BDC8-965F-4C09-8ADC-3C021C28F55C"
+    },
+    {
+      "class": "text",
+      "id": "8954CC74-8546-4E04-AEAB-7DF3C77DE484"
+    },
+    {
+      "class": "text",
+      "id": "BBBD553A-3151-4A3C-B2F6-11CDB531273E"
+    },
+    {
+      "class": "text",
+      "id": "9F000D61-C944-4FFE-AE28-7AC265D307C8"
+    },
+    {
+      "class": "text",
+      "id": "479FC3DD-A21D-48EC-8171-7EE057537331"
+    },
+    {
+      "class": "bitmap",
+      "id": "0B8823AA-B68A-4ABF-B8C3-910FDFE3A3CA"
+    },
+    {
+      "class": "bitmap",
+      "id": "A4022C0E-C2C1-4D61-A07B-9CADC04D5349"
+    },
+    {
+      "class": "bitmap",
+      "id": "22710A69-8DB4-4AFA-BE8F-1CB1DCC27381"
+    }
+  ],
+  "name": "Page 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Apple TV",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "52D4E851-9920-46CA-8856-DFE4BF040143",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "75A19DE0-876B-495E-915D-6F781195FB6B",
+    "guides": [
+    ]
+  }
+}

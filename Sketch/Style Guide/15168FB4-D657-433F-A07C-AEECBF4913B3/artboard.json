@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4576EA10-67BA-4676-8FB0-2764495792BB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "15168FB4-D657-433F-A07C-AEECBF4913B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "027CB58D-5F4D-47E6-9323-FAA8FC4DA6ED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEA60CB0-4A64-4DD2-B038-8A93963E8520",
+    "height": 1920,
+    "width": 2713,
+    "x": -960,
+    "y": 1287
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "83939BA3-09F4-4241-A5F0-1F7458124284",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "CB75D5EB-D7E2-4274-84DA-8AC55D723343"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D09E616-29B6-44F0-8830-EA95046E27FC"
+    },
+    {
+      "class": "text",
+      "id": "82EEB5C6-5C1F-4968-9243-85396ED760A3"
+    },
+    {
+      "class": "text",
+      "id": "8F3A2D23-90F7-49A1-938B-F541277F5C07"
+    },
+    {
+      "class": "text",
+      "id": "EC354016-93E3-41B7-AA6B-D03F5FD2FFE5"
+    },
+    {
+      "class": "bitmap",
+      "id": "F4CE253A-B04C-4AB3-A1B8-D9543069D2B1"
+    },
+    {
+      "class": "text",
+      "id": "A7480C2E-ABB6-4137-8C58-587E309A3A9E"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Apple TV",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADEA8A18-74E7-439B-80C3-7BD070DC1D5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8D5E0314-0B10-4A6B-BDDC-10674BDFCDCE",
+    "guides": [
+    ]
+  }
+}
