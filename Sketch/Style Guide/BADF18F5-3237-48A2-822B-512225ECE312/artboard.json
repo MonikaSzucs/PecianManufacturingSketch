@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -63,19 +63,19 @@
       "id": "731CF2C3-E239-4BA0-BB79-A63D88A9E808"
     },
     {
+      "class": "group",
+      "id": "5C6FD75A-7D2A-4B39-9DFF-B6E0912D783C"
+    },
+    {
+      "class": "group",
+      "id": "6D54AB64-A606-4B87-A351-3ADBBC727BAC"
+    },
+    {
       "class": "text",
       "id": "87E14A8A-B3DB-4C65-A1B9-20A8AF6E824F"
-    },
-    {
-      "class": "text",
-      "id": "CB1F147D-9F66-4E8B-93F6-7CE2811339D1"
-    },
-    {
-      "class": "text",
-      "id": "DFF26DA8-13F3-405C-B0FB-A0CFB2B27EDF"
     }
   ],
-  "name": "Page 6 Copy",
+  "name": "Page 8",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
