@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Medium",
+              "name": "Helvetica",
               "size": 50
             }
           },
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Pecian Manufacturng Brand Guidelines 1.0"
+    "string": "Pecian Manufacturng Brand Guidelines 2.0"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 1}, {1015, 51}}",
+  "glyphBounds": "{{4, 12}, {948, 49}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Medium",
+            "name": "Helvetica",
             "size": 50
           }
         },

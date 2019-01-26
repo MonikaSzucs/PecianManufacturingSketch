@@ -1,0 +1,109 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "A525E63A-E23E-4EB8-80C7-153243C4330F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1920,
+    "width": 2713,
+    "x": 7624,
+    "y": 1287
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C75B540F-DD6C-414C-88B7-5C5C625B01DC"
+    },
+    {
+      "class": "group",
+      "id": "477DB84D-44E5-4F13-815E-62569D444EA9"
+    },
+    {
+      "class": "group",
+      "id": "E8F3AA27-EEE4-4E20-8074-840EC5A22FFA"
+    },
+    {
+      "class": "text",
+      "id": "BCD06642-214E-4EFA-A77A-05D83F809823"
+    },
+    {
+      "class": "group",
+      "id": "916D7F29-8BF0-4945-BB59-5D14FD165B04"
+    },
+    {
+      "class": "group",
+      "id": "D8D1C42E-0E9A-4876-98A3-35EC29E567E2"
+    },
+    {
+      "class": "group",
+      "id": "7107B4EC-81DD-4128-82BB-FD6903012C24"
+    }
+  ],
+  "name": "Page 4",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Apple TV",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

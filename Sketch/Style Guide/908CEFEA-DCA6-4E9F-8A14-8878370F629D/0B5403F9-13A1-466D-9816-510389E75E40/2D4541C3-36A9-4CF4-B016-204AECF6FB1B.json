@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Medium",
+              "name": "Helvetica",
               "size": 150
             }
           },
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "06"
+    "string": "07"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2A7F2306-E982-402D-99EF-9EFECB0D744E",
-    "height": 139,
+    "height": 180,
     "width": 213,
     "x": 654,
     "y": 53
   },
-  "glyphBounds": "{{52, 6}, {156, 109}}",
+  "glyphBounds": "{{50, 41}, {159, 108}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "06 copy",
+  "name": "07",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Medium",
+            "name": "Helvetica",
             "size": 150
           }
         },

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Medium",
+              "name": "Helvetica",
               "size": 100
             }
           },
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Brand Guidelines 1.0"
+    "string": "Brand Guidelines 2.0"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,15 +55,15 @@
     "x": 344,
     "y": 910
   },
-  "glyphBounds": "{{8, 3}, {946, 74}}",
+  "glyphBounds": "{{7, 23}, {923, 77}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Brand Guidelines 1.0",
+  "name": "Brand Guidelines 2.0",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Medium",
+            "name": "Helvetica",
             "size": 100
           }
         },
