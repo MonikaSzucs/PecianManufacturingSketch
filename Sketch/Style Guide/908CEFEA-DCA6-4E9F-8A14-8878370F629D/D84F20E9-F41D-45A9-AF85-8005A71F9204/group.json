@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D84F20E9-F41D-45A9-AF85-8005A71F9204",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 202,
+    "width": 867,
+    "x": 231,
+    "y": 1181
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EEE67A03-DB52-45ED-969E-2E1E0B020FAB"
+    },
+    {
+      "class": "text",
+      "id": "B025A294-053A-4FC9-A1E6-0AF42B0C07C4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7838E718-71A0-4D3F-86C1-7E08948BF9C9"
+    }
+  ],
+  "name": "3 Mission and Vision",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

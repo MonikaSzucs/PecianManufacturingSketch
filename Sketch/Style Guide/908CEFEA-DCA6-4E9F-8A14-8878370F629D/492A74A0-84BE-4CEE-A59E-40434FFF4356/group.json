@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "492A74A0-84BE-4CEE-A59E-40434FFF4356",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 374,
+    "width": 867,
+    "x": 1640,
+    "y": 624
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D32B3DB0-70DD-4C1A-9A61-3E8EB8AA2747"
+    },
+    {
+      "class": "text",
+      "id": "44F0FCAC-5E6C-47AE-93AD-718235098A2F"
+    },
+    {
+      "class": "text",
+      "id": "7AF1DA78-65B2-4D56-832D-638EF98A27FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C522B47A-76D0-40AB-9F17-5952FD05E88C"
+    }
+  ],
+  "name": "4 Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

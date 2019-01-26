@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "4ECEC104-8B2B-43D0-A78D-0F74338AE3B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 219,
+    "width": 867,
+    "x": 231,
+    "y": 616
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6554144F-BC79-489E-9CA4-A047B7BBC4AC"
+    },
+    {
+      "class": "text",
+      "id": "43BF3A42-BC75-477F-B892-55799DF90D1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6393DDCA-8BC0-4A75-9337-ED53E919E393"
+    },
+    {
+      "class": "text",
+      "id": "22BFB463-DB67-4528-A4EC-CBD4BD4A7E1B"
+    }
+  ],
+  "name": "1. Brand Intro",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
