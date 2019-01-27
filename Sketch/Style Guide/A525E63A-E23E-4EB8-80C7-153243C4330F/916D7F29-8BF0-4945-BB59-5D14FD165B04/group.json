@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 223,
+    "height": 354,
     "width": 867,
     "x": 231,
     "y": 636
@@ -23,7 +23,7 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
@@ -32,19 +32,19 @@
       "id": "8668393C-51E8-48D6-A535-3E5B679911BE"
     },
     {
-      "class": "text",
-      "id": "4AA03896-F6D1-4926-91FD-046B42DD176E"
-    },
-    {
       "class": "shapeGroup",
       "id": "3B4E9E98-27FB-4622-9176-896655269127"
+    },
+    {
+      "class": "text",
+      "id": "4AA03896-F6D1-4926-91FD-046B42DD176E"
     },
     {
       "class": "text",
       "id": "0E43C858-32AA-4C28-832D-53C58E33D8C8"
     }
   ],
-  "name": "6 Header and Footer",
+  "name": "6 Color",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

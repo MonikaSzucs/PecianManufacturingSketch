@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "8.0 IMAGES"
+    "string": "9.0 IMAGES"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,7 +53,7 @@
     "x": 155,
     "y": 0
   },
-  "glyphBounds": "{{395, 1}, {316, 46}}",
+  "glyphBounds": "{{392, 1}, {319, 46}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "8.0 IMAGES",
+  "name": "9.0 IMAGES",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

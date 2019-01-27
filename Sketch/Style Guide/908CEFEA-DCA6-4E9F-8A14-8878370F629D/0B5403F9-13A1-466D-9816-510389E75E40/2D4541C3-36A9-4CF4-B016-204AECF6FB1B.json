@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "07"
+    "string": "14"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "x": 654,
     "y": 73
   },
-  "glyphBounds": "{{42, 6}, {166, 109}}",
+  "glyphBounds": "{{83, 6}, {126, 108}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "07",
+  "name": "14",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

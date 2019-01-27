@@ -16,14 +16,14 @@
     "constrainProportions": false,
     "height": 221,
     "width": 867,
-    "x": 231,
-    "y": 1194
+    "x": 1644,
+    "y": 636
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
@@ -44,7 +44,7 @@
       "id": "66545BCC-8474-49DD-97B0-8AD9D9813D2F"
     }
   ],
-  "name": "3 Mission and Vision",
+  "name": "9 Images",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

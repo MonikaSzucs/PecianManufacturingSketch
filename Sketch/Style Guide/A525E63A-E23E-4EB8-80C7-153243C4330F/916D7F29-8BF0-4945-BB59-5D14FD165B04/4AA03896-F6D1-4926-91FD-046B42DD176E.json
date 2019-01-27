@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 21,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "6.0 HEADER AND FOOTER"
+    "string": "6.0 COLOR"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,7 +53,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{164, 1}, {700, 45}}",
+  "glyphBounds": "{{560, 2}, {304, 44}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "6.0 HEADER AND FOOTE",
+  "name": "6.0 COLOR",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
