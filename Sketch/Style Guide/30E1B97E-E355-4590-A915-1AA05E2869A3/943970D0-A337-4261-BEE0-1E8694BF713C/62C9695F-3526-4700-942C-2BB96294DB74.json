@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "62C9695F-3526-4700-942C-2BB96294DB74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E45C502-CA38-4A5C-AD3D-854F692A8EB3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5E3B1506-ED44-4B7C-83A5-09E52CAB21A7",
+    "height": 354,
+    "width": 354,
+    "x": 58,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/9dd4f4d9753f6d8bdc710c64cf9486ce96f264dc.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "White Pattern-01 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2C88A196-BABA-4CBE-881E-A79BE311903F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 436,
+            "enabled": 1,
+            "modelID": "constraint_b0a5e03b-6473-4798-b721-cedb833109c0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 436
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_30966617-eb43-4647-a999-ce4c8da9f16a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

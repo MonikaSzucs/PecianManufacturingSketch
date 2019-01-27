@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "42CE648A-59E0-42EE-9807-C3C14C0774DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 887,
+    "width": 837,
+    "x": 1341,
+    "y": 665
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C1D41384-EE82-460E-AEB4-11BCAC559518"
+    },
+    {
+      "class": "text",
+      "id": "AAD38E3E-3A34-455E-8F22-8B6057B6EDB8"
+    },
+    {
+      "class": "bitmap",
+      "id": "1BFEE315-8856-45DD-ABE3-060B28B8CE94"
+    },
+    {
+      "class": "bitmap",
+      "id": "E5B8DD09-94A3-4597-981E-40950D149818"
+    },
+    {
+      "class": "text",
+      "id": "53DE19F8-CD44-40B3-AC78-224A431C1461"
+    },
+    {
+      "class": "bitmap",
+      "id": "8760F018-C9AE-42B1-9F82-B21651EA7812"
+    }
+  ],
+  "name": "Color Buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
