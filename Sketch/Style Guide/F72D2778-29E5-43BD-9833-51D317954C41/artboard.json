@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -65,9 +65,25 @@
     {
       "class": "text",
       "id": "D1F2E3AE-BA83-46D1-980A-DE6C4D0547D9"
+    },
+    {
+      "class": "text",
+      "id": "6EFBDBEE-8FDF-448C-AA3D-726B64E7BE20"
+    },
+    {
+      "class": "group",
+      "id": "4F96063B-6E83-4A10-ABB4-D14EEED0A40D"
+    },
+    {
+      "class": "group",
+      "id": "B4184D85-A36E-491A-B388-4BA128C2CB10"
+    },
+    {
+      "class": "text",
+      "id": "9E6B8D78-09B3-4D88-A506-C052A19122B3"
     }
   ],
-  "name": "Page 15 Typography - Primary",
+  "name": "Page 15 Typography - Primary and Secondary",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

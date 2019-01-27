@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "4F96063B-6E83-4A10-ABB4-D14EEED0A40D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 230,
+    "width": 1097,
+    "x": 260,
+    "y": 651
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5C1457BB-F1B9-4913-A808-89F320CC1300"
+    },
+    {
+      "class": "text",
+      "id": "69851A3F-8FF6-4B52-AFCD-CBFFFF26E510"
+    },
+    {
+      "class": "text",
+      "id": "9AE86B77-43F1-4567-8814-0E4402ABA2E2"
+    },
+    {
+      "class": "text",
+      "id": "2BE10644-67EF-4BDF-B6A6-94233159DD19"
+    }
+  ],
+  "name": "Bold Noir",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

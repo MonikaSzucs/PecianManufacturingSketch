@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "B4184D85-A36E-491A-B388-4BA128C2CB10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 224,
+    "width": 1149,
+    "x": 1362,
+    "y": 999
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1C73779E-B688-4DB4-80F2-F6E2D98A8324"
+    },
+    {
+      "class": "text",
+      "id": "677CB164-E29B-4246-A6BB-1CD182B4434F"
+    },
+    {
+      "class": "text",
+      "id": "79624E98-AD25-454B-A140-1A165095678B"
+    },
+    {
+      "class": "text",
+      "id": "DB4BEEA2-E6A7-4A00-BA1C-40E177A4542E"
+    }
+  ],
+  "name": "Regular Noir",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
