@@ -1,0 +1,91 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "E4C15B6F-596E-4C5E-BC6D-588575F5A426",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF04E250-E55E-4287-A9FB-C7DEA20729E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EB717994-1EF2-420C-AF09-5895D703E0E3",
+    "height": 435,
+    "width": 435,
+    "x": 1918,
+    "y": 1051
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/816dbe0ee35ad10e37c786fab180fbfe23b21057.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Color Pattern Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "46D38A88-4710-48D9-8B6F-0A3AE470E000",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 435,
+            "enabled": 1,
+            "modelID": "constraint_e4bbf5b2-3f88-414d-999a-7c1609fec86f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 435
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_90a316d0-725f-4c67-a6ab-d8fba46f8bb2",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
