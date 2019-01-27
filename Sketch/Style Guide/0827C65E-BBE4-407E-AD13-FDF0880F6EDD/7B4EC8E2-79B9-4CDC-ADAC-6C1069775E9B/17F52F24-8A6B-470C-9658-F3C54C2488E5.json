@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Medium",
               "size": 50
             }
           },
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "2.0 Logo"
+    "string": "4.0 Logo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,9 +51,9 @@
     "height": 59,
     "width": 640,
     "x": 1664,
-    "y": 43
+    "y": 54
   },
-  "glyphBounds": "{{446, 13}, {192, 48}}",
+  "glyphBounds": "{{436, 2}, {203, 50}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2.0 Logo",
+  "name": "4.0 Logo",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Medium",
             "size": 50
           }
         },

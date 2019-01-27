@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Medium",
               "size": 75
             }
           },
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 20,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "2.4 Logo Positioning"
+    "string": "4.5 Positioning"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,17 +51,17 @@
     "height": 102,
     "width": 1018,
     "x": 207,
-    "y": 401
+    "y": 418
   },
-  "glyphBounds": "{{2, 19}, {673, 71}}",
+  "glyphBounds": "{{2, 2}, {509, 74}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2.4 Logo Positioning",
+  "name": "4.5 Positioning",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Medium",
             "size": 75
           }
         },

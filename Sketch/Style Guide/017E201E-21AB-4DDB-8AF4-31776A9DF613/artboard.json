@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -71,7 +71,7 @@
       "id": "84F324F3-94F9-4345-9A38-04810D990349"
     }
   ],
-  "name": "Page 6",
+  "name": "Page 2",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

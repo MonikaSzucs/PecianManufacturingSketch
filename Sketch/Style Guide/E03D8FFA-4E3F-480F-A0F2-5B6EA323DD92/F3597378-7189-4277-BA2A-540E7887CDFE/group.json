@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "F3597378-7189-4277-BA2A-540E7887CDFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 113,
+    "width": 2304,
+    "x": 207,
+    "y": 1692
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D0A33305-8F06-45EC-8638-59C065BB3706"
+    },
+    {
+      "class": "text",
+      "id": "7389DB32-C673-4448-9B74-DAE93F244D73"
+    },
+    {
+      "class": "bitmap",
+      "id": "EC5A4C45-15C9-46D6-9A4D-7F55F9B54580"
+    },
+    {
+      "class": "bitmap",
+      "id": "A809A990-CC5F-465A-8FC2-AB56C3BE0D13"
+    }
+  ],
+  "name": "Footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

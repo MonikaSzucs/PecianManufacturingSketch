@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "0"
+    "string": "2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "0",
+  "name": "2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

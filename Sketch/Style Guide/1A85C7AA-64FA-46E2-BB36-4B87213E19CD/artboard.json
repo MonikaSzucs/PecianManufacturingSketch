@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -67,7 +67,7 @@
       "id": "695CF4B0-A288-4B39-B422-72B0702B9651"
     }
   ],
-  "name": "Page 5",
+  "name": "Page 1 Brand Intro",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

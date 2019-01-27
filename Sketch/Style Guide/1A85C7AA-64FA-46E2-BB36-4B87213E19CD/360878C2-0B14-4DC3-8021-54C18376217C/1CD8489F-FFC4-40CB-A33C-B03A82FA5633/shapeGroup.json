@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2714,
-    "width": 1921,
-    "x": 396.5,
-    "y": -396.5
+    "height": 1921,
+    "width": 2739,
+    "x": 0,
+    "y": 9
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -38,7 +38,7 @@
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 90,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -78,7 +78,7 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 1,
-          "from": "{0.5, 0.30388725128960942}",
+          "from": "{0.5, 0.30388725128960936}",
           "gradientType": 1,
           "stops": [
             {
@@ -104,7 +104,7 @@
               "position": 1
             }
           ],
-          "to": "{-0.15848679073399263, 0.30388725128960942}"
+          "to": "{0.49999999999999994, 0.96237404202360199}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
