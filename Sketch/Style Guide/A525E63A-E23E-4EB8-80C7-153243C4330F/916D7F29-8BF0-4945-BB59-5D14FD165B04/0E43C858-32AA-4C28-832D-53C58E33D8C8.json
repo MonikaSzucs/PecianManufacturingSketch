@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Regular",
               "size": 45
             }
           },
@@ -53,9 +53,9 @@
     "height": 114,
     "width": 417,
     "x": 0,
-    "y": 88
+    "y": 76
   },
-  "glyphBounds": "{{1, 4}, {222, 84}}",
+  "glyphBounds": "{{1, 7}, {205, 83}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Regular",
             "size": 45
           }
         },

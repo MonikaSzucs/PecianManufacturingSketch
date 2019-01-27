@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Medium",
+              "name": "Regular",
               "size": 50
             }
           },
@@ -55,7 +55,7 @@
     "x": 1616,
     "y": 156
   },
-  "glyphBounds": "{{0, 2}, {672, 987}}",
+  "glyphBounds": "{{0, 2}, {663, 987}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Medium",
+            "name": "Regular",
             "size": 50
           }
         },

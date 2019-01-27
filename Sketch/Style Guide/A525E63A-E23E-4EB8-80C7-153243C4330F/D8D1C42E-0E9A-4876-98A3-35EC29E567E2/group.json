@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 245,
+    "height": 224,
     "width": 867,
     "x": 231,
-    "y": 905
+    "y": 918
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -40,7 +40,7 @@
       "id": "30AF7BA0-473D-4303-8BD5-0408E1A870EF"
     }
   ],
-  "name": "2 Tagline",
+  "name": "7 Menu",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

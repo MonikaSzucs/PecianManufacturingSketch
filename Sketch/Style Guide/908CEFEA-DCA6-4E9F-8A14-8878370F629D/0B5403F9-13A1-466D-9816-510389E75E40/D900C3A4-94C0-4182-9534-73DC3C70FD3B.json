@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Medium",
               "size": 60
             }
           },
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6ECE8A5A-983B-4014-9D9D-21B978547BFD",
-    "height": 72,
+    "height": 55,
     "width": 542,
     "x": 326,
     "y": 0
   },
-  "glyphBounds": "{{27, 13}, {515, 47}}",
+  "glyphBounds": "{{51, 1}, {491, 46}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -89,7 +89,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Medium",
             "size": 60
           }
         },

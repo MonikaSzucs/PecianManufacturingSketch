@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 374,
+    "height": 385,
     "width": 867,
     "x": 1640,
     "y": 624
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -36,12 +36,12 @@
       "id": "44F0FCAC-5E6C-47AE-93AD-718235098A2F"
     },
     {
-      "class": "text",
-      "id": "7AF1DA78-65B2-4D56-832D-638EF98A27FD"
-    },
-    {
       "class": "shapeGroup",
       "id": "C522B47A-76D0-40AB-9F17-5952FD05E88C"
+    },
+    {
+      "class": "text",
+      "id": "7AF1DA78-65B2-4D56-832D-638EF98A27FD"
     }
   ],
   "name": "4 Logo",

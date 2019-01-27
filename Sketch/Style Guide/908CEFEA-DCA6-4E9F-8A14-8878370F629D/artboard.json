@@ -37,7 +37,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,7 +61,7 @@
     },
     {
       "class": "group",
-      "id": "CF10BB39-E36E-4EB6-8341-21249CC7BD05"
+      "id": "D711489C-0A64-4F34-9810-4A290D02E61F"
     },
     {
       "class": "group",

@@ -25,11 +25,19 @@
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "group",
-      "id": "F079DA99-23F8-4BA2-8586-52317F63FF20"
+      "class": "text",
+      "id": "8954CC74-8546-4E04-AEAB-7DF3C77DE484"
+    },
+    {
+      "class": "text",
+      "id": "479FC3DD-A21D-48EC-8171-7EE057537331"
+    },
+    {
+      "class": "bitmap",
+      "id": "0B8823AA-B68A-4ABF-B8C3-910FDFE3A3CA"
     }
   ],
   "name": "Header",

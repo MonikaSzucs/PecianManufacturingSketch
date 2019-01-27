@@ -63,20 +63,12 @@
       "id": "98AF29E6-7EEB-42D3-812F-7D34BCE2EC03"
     },
     {
-      "class": "text",
-      "id": "307C6A5E-5BB4-48E2-BDE0-B5F7AD2AE444"
+      "class": "group",
+      "id": "F62ACD5A-8855-4FCD-8E4F-AB95FCED5E3E"
     },
     {
-      "class": "text",
-      "id": "98D09911-A345-40CD-B255-C6E5DC6D349E"
-    },
-    {
-      "class": "text",
-      "id": "6475F763-312B-4FEA-8992-918E88B91A77"
-    },
-    {
-      "class": "text",
-      "id": "5B7B9542-555E-49B6-AD2E-8C8210979DAB"
+      "class": "group",
+      "id": "84F324F3-94F9-4345-9A38-04810D990349"
     }
   ],
   "name": "Page 6",
