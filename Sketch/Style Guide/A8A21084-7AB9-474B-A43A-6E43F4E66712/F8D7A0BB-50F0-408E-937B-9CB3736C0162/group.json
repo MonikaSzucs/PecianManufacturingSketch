@@ -1,8 +1,7 @@
 {
-  "_class": "bitmap",
+  "_class": "group",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "44630755-D857-4B1C-91E1-C2D8B9B4C9B5",
+  "do_objectID": "F8D7A0BB-50F0-408E-937B-9CB3736C0162",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,29 +11,37 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 220,
-    "width": 482,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 102,
+    "width": 2301,
+    "x": 207,
+    "y": 1692
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/6725a4bdf09c10b55a7512c231f05c27b91e23a7.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 144,
+  "hasClickThrough": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "PecianManufacturing",
-  "nameIsFixed": false,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F76AFEB4-873C-4D4D-B8EC-B84B4CBCD25C"
+    },
+    {
+      "class": "bitmap",
+      "id": "AF98B5AF-3EE2-45E4-946C-9B4F16DE9D68"
+    },
+    {
+      "class": "bitmap",
+      "id": "9C64EB2D-6EB0-4C7B-892D-49127A8FEBD3"
+    }
+  ],
+  "name": "Footer",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -45,11 +52,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
   }
 }

@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "2.1 Logo (Does Not Work)"
+    "string": "2.2 Logo (Does Not Work)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,11 +57,11 @@
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "2.1 Logo (Does Not W",
+  "name": "2.2 Logo (Does Not W",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

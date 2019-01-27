@@ -2,7 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "47D7DF16-3CFD-4044-B12E-E5096A3ED64C",
+  "do_objectID": "B69A4530-D439-484A-BBEE-5E41BE836F2C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,14 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 337,
-    "width": 827,
-    "x": 1176,
-    "y": 0
+    "height": 8.35,
+    "width": 196.225,
+    "x": 2104,
+    "y": 8
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/ec55ca1cbb1f4a1a90536b1937ea8e1916207d48.png",
+    "_ref": "images/c70b9d89fcb89bf1789f625d961b2719b5ab0548.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 144,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Logos_Dark",
+  "name": "DarkGoldOneLine",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

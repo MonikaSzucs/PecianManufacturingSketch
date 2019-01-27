@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2549019607843137,
+            "green": 0.5019607843137255,
+            "red": 0.6509803921568628
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 45
+              "name": "Medium",
+              "size": 50
             }
           },
           "paragraphStyle": {
@@ -26,15 +26,15 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 159,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "The text must be noir font white on a dark background. The gold gradient pin makes up the “i” and a think dotted gold line is between Pecian and Manufacturing."
+    "string": "0"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "F35E3B08-C7BF-4D11-B050-FB46BB99A809",
+  "do_objectID": "251E0EE7-AECB-4966-B327-1D178C37ACF3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 237,
-    "width": 1014,
-    "x": 0,
-    "y": 67
+    "height": 59,
+    "width": 129,
+    "x": 2171,
+    "y": 0
   },
-  "glyphBounds": "{{47, 11}, {967, 205}}",
+  "glyphBounds": "{{102, 2}, {25, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "The text must be noi",
+  "name": "0",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -78,15 +78,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2549019607843137,
+          "green": 0.5019607843137255,
+          "red": 0.6509803921568628
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
-            "size": 45
+            "name": "Medium",
+            "size": 50
           }
         },
         "paragraphStyle": {
@@ -99,12 +99,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 0
-      }
-    }
-  }
+  "textBehaviour": 2
 }
