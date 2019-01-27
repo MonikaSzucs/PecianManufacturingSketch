@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Regular",
-              "size": 50
+              "size": 45
             }
           },
           "paragraphStyle": {
@@ -51,9 +51,9 @@
     "height": 113,
     "width": 541,
     "x": 522,
-    "y": 418
+    "y": 1003
   },
-  "glyphBounds": "{{77, -1}, {388, 87}}",
+  "glyphBounds": "{{96, -1}, {349, 78}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -86,7 +86,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Regular",
-            "size": 50
+            "size": 45
           }
         },
         "paragraphStyle": {

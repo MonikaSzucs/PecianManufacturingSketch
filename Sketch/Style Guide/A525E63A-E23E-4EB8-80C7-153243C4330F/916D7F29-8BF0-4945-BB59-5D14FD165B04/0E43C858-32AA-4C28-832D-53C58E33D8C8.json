@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 82,
+        "length": 74,
         "location": 0
       }
     ],
-    "string": "6.1 RGB Palette Logo\n6.2 BW Palette Logo\n6.3 Primary Palette For Background/Button"
+    "string": "6.1 RGB Palette Logo\n6.2 BW Palette Logo\n6.3 Palette For Background/Button"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,7 +55,7 @@
     "x": 0,
     "y": 76
   },
-  "glyphBounds": "{{1, 6}, {466, 195}}",
+  "glyphBounds": "{{1, 6}, {427, 195}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

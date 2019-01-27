@@ -1,0 +1,91 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "38581EFC-FC70-40E9-BBD9-CC387BF513B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F77A05C-04BE-4A33-ABBA-F610544CFD49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "33D11B45-C412-436B-8B56-EFBD1671E41F",
+    "height": 231,
+    "width": 347,
+    "x": 1654,
+    "y": 464
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/ee2efe26416a54a8efc6fe3cb82fa157fa2d7ef5.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Color Pattern Copy 10",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "568094E9-162B-4BB9-B90A-D1FEF7A05053",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.615686274509804,
+          "green": 0.6666666666666666,
+          "red": 0.592156862745098
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 289.71,
+            "enabled": 1,
+            "modelID": "constraint_7277fbfa-8e50-402e-9b83-8b70ba965db4",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 435
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4df8e957-0545-4f47-bf30-837cd095af12",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

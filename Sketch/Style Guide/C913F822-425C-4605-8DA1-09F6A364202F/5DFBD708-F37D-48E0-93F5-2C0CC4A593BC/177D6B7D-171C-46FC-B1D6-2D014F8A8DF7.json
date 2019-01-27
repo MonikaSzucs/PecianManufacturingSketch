@@ -1,0 +1,91 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "177D6B7D-171C-46FC-B1D6-2D014F8A8DF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49F37499-F53F-440A-98C2-2EA0F1388124",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "32328642-2442-434C-B21B-E52F4A0B8993",
+    "height": 228,
+    "width": 235,
+    "x": 918,
+    "y": 463
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/23653c00fc31db0abbb79acb8cd09128207c56c5.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "White Pattern-01 Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C76E9E7-1992-46E9-907D-CE488E23AB7B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3372549019607843,
+          "green": 0.3764705882352941,
+          "red": 0.3450980392156863
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 285.3666,
+            "enabled": 1,
+            "modelID": "constraint_8798063c-745b-4b5b-a747-06269d9bcd98",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 294.1536
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_85a2071d-976c-4090-b439-602779f67523",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 531,
+    "height": 1116,
     "width": 1063,
     "x": 1324,
-    "y": 1044
+    "y": 484
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -42,6 +42,22 @@
     {
       "class": "text",
       "id": "ACEFB958-37C0-4EB6-A10C-FBC959422C75"
+    },
+    {
+      "class": "bitmap",
+      "id": "8822095B-B277-4AEF-AD6B-A750BEC4D694"
+    },
+    {
+      "class": "text",
+      "id": "BA1BCC64-6E4C-427B-8641-8FBC567F6A52"
+    },
+    {
+      "class": "bitmap",
+      "id": "AB2D1B75-9E24-4094-9E7D-2DC748406A4A"
+    },
+    {
+      "class": "text",
+      "id": "95314F61-A97F-45DE-9044-868A4FA035BF"
     }
   ],
   "name": "Colors",
