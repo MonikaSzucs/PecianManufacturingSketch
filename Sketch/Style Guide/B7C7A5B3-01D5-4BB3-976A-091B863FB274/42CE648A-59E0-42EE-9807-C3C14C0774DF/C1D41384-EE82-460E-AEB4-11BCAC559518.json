@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "RGB(209,209,209)\nHEX #D1D1D1"
+    "string": "RGB(101,124,137)\nHEX #657C89"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,9 +51,9 @@
     "height": 90,
     "width": 432,
     "x": 405,
-    "y": 335
+    "y": 276
   },
-  "glyphBounds": "{{43, -1}, {347, 78}}",
+  "glyphBounds": "{{66, -1}, {301, 78}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "RGB(209,209,209) HEX",
+  "name": "RGB(101,124,137) HEX",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -18,8 +18,8 @@
     "constrainProportions": true,
     "height": 231,
     "width": 347,
-    "x": 459,
-    "y": 527
+    "x": 443,
+    "y": 1
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -48,9 +48,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5333333333333333,
-          "green": 0.352941176470588,
-          "red": 0.1372549019607843
+          "blue": 0.5019607843137255,
+          "green": 0.5607843137254902,
+          "red": 0.2862745098039216
         },
         "fillType": 0,
         "isEnabled": true,
@@ -67,6 +67,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 231,
+            "enabled": 1,
+            "modelID": "constraint_a9b6e2d9-df20-4a22-9cad-cd8e4cee2806",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 347
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2b190e9a-25ed-4fea-a717-09e71fd4593d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
       }
     }
   }

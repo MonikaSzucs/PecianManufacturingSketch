@@ -19,7 +19,7 @@
     "height": 231,
     "width": 347,
     "x": 447,
-    "y": 59
+    "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -48,9 +48,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8196078431372549,
-          "green": 0.8196078431372549,
-          "red": 0.8196078431372549
+          "blue": 0.5372549019607843,
+          "green": 0.4862745098039215,
+          "red": 0.396078431372549
         },
         "fillType": 0,
         "isEnabled": true,

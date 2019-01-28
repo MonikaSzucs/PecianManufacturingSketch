@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 28,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "RGB(173,185,105)\nHEX #ADB969"
+    "string": "RGB(177,96,77)\nHEX #B1604D"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,10 +50,10 @@
     "constrainProportions": false,
     "height": 90,
     "width": 432,
-    "x": 16,
-    "y": 804
+    "x": 0,
+    "y": 740
   },
-  "glyphBounds": "{{62, -1}, {309, 78}}",
+  "glyphBounds": "{{72, -1}, {288, 78}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "RGB(173,185,105) HEX",
+  "name": "RGB(177,96,77) HEX #",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

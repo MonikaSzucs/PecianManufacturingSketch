@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 887,
+    "height": 828,
     "width": 837,
     "x": 1341,
-    "y": 665
+    "y": 724
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -36,20 +36,28 @@
       "id": "AAD38E3E-3A34-455E-8F22-8B6057B6EDB8"
     },
     {
+      "class": "text",
+      "id": "933E6B66-B74F-48B2-8339-7FC120F0ACE4"
+    },
+    {
       "class": "bitmap",
       "id": "1BFEE315-8856-45DD-ABE3-060B28B8CE94"
+    },
+    {
+      "class": "bitmap",
+      "id": "3CA6950E-3246-49A6-973A-C0058C89F443"
     },
     {
       "class": "bitmap",
       "id": "E5B8DD09-94A3-4597-981E-40950D149818"
     },
     {
-      "class": "text",
-      "id": "53DE19F8-CD44-40B3-AC78-224A431C1461"
+      "class": "bitmap",
+      "id": "B3D6313C-7719-4EE6-8D72-1A93055D4523"
     },
     {
-      "class": "bitmap",
-      "id": "8760F018-C9AE-42B1-9F82-B21651EA7812"
+      "class": "text",
+      "id": "53DE19F8-CD44-40B3-AC78-224A431C1461"
     }
   ],
   "name": "Color Buttons",

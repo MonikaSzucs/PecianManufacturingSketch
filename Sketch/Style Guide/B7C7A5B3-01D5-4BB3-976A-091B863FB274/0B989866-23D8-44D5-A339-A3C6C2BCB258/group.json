@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 894,
-    "width": 848,
-    "x": 207,
-    "y": 659
+    "height": 830,
+    "width": 832,
+    "x": 223,
+    "y": 723
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -50,14 +50,6 @@
     {
       "class": "text",
       "id": "9FD154C3-1106-476F-988A-6894C8F3F2EF"
-    },
-    {
-      "class": "text",
-      "id": "51196B8E-740C-460E-9A07-8291D947D81B"
-    },
-    {
-      "class": "bitmap",
-      "id": "FFFA11AB-B50B-4A67-8633-1D6C8410C193"
     }
   ],
   "name": "Color Icons",
