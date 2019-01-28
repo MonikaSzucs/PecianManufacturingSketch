@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -38,10 +38,6 @@
     {
       "class": "shapeGroup",
       "id": "05E9DFBA-1C9E-4288-A356-4149F86909CB"
-    },
-    {
-      "class": "text",
-      "id": "66545BCC-8474-49DD-97B0-8AD9D9813D2F"
     }
   ],
   "name": "9 Images",
