@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -73,6 +73,14 @@
     {
       "class": "text",
       "id": "E2B82363-D835-4FEC-8369-612C18A0354C"
+    },
+    {
+      "class": "text",
+      "id": "60E808EC-3DA5-4FEE-8D22-643B2411DD60"
+    },
+    {
+      "class": "bitmap",
+      "id": "3A760902-BD0A-4CE0-9E15-17602AEB7512"
     }
   ],
   "name": "Page 23 ",

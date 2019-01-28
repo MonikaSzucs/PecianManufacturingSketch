@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 70,
         "location": 0
       }
     ],
-    "string": "Type something"
+    "string": "The header will be located on the left side of the website on Desktop."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 453,
-    "width": 1195,
+    "height": 203,
+    "width": 803,
     "x": 1046,
     "y": 639
   },
-  "glyphBounds": "{{0, 3}, {367, 49}}",
+  "glyphBounds": "{{0, 3}, {779, 140}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Type something",
+  "name": "The header will be l",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
