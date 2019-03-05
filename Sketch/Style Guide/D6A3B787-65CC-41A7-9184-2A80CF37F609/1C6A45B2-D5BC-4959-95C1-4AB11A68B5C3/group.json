@@ -1,6 +1,5 @@
 {
   "_class": "group",
-  "booleanOperation": -1,
   "do_objectID": "1C6A45B2-D5BC-4959-95C1-4AB11A68B5C3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -14,18 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1116,
+    "height": 1126,
     "width": 1063,
     "x": 1324,
     "y": 484
   },
   "hasClickThrough": false,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "bitmap",
@@ -68,9 +66,8 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

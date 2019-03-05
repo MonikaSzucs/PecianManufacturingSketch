@@ -8,7 +8,6 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
   "do_objectID": "935A399E-1367-4A92-86A5-0955193E3EA3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -40,7 +39,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -102,10 +100,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "1ABF4D3F-D3BF-4810-B5F6-98E6D594464C",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {

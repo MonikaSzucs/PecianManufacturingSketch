@@ -1,6 +1,5 @@
 {
   "_class": "group",
-  "booleanOperation": -1,
   "do_objectID": "D84F20E9-F41D-45A9-AF85-8005A71F9204",
   "exportOptions": {
     "_class": "exportOptions",
@@ -14,18 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 217,
+    "height": 230,
     "width": 867,
     "x": 231,
-    "y": 1181
+    "y": 1194
   },
   "hasClickThrough": false,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -48,9 +46,8 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   }
 }

@@ -16,11 +16,7 @@
   },
   "colorSpace": 0,
   "do_objectID": "a42671c0-a979-11e8-a5e8-2989ad3a8cfe",
-  "foreignLayerStyles": [
-  ],
   "foreignSymbols": [
-  ],
-  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -28,9 +24,9 @@
     ]
   },
   "meta": {
-    "appVersion": "51",
-    "build": 57462,
-    "version": 105
+    "appVersion": "49.1",
+    "build": 51147,
+    "version": 101
   },
   "pages": [
     "Prototype",

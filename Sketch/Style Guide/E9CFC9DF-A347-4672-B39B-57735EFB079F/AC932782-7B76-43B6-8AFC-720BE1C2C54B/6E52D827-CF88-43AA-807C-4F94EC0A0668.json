@@ -1,39 +1,12 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Regular",
-              "size": 50
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 189,
-        "location": 0
-      }
-    ],
-    "string": "The text must be noir font black on a light background for black and white graphics. The gold gradient pin makes up the “i” and a think dotted gold line is between Pecian and Manufacturing."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAeHyAhIiguMjo7PD0+QkZHU1RVVldYWVtVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANvEL0AVABoAGUAIAB0AGUAeAB0ACAAbQB1AHMAdAAgAGIAZQAgAG4AbwBpAHIAIABmAG8AbgB0ACAAYgBsAGEAYwBrACAAbwBuACAAYQAgAGwAaQBnAGgAdAAgAGIAYQBjAGsAZwByAG8AdQBuAGQAIABmAG8AcgAgAGIAbABhAGMAawAgAGEAbgBkACAAdwBoAGkAdABlACAAZwByAGEAcABoAGkAYwBzAC4AIABUAGgAZQAgAGcAbwBsAGQAIABnAHIAYQBkAGkAZQBuAHQAIABwAGkAbgAgAG0AYQBrAGUAcwAgAHUAcAAgAHQAaABlACAgHABpIB0AIABhAG4AZAAgAGEAIAB0AGgAaQBuAGsAIABkAG8AdAB0AGUAZAAgAGcAbwBsAGQAIABsAGkAbgBlACAAaQBzACAAYgBlAHQAdwBlAGUAbgAgAFAAZQBjAGkAYQBuACAAYQBuAGQAIABNAGEAbgB1AGYAYQBjAHQAdQByAGkAbgBnAC7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAqAEoATgBpfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QHXRleHRTdHlsZVZlcnRpY2FsQWxpZ25tZW50S2V5XxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRl0yMKJCUmJ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25aTlNUYWJTdG9wcxABgAmAANIpKissWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxloistWE5TT2JqZWN00govMDFfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTERIKMzY5ojQ1gAyADaI3OIAOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEDJXUmVndWxhctIpKj9AXxATTlNNdXRhYmxlRGljdGlvbmFyeaM/QS1cTlNEaWN0aW9uYXJ50ikqQ0RfEBBOU0ZvbnREZXNjcmlwdG9yokUtXxAQTlNGb250RGVzY3JpcHRvchAA0xESCkhNHaRJSktMgBSAFYAWgBekTk9OToAYgBmAGIAYgBpTcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAADSKSpBWqJBLdIpKlxdXxASTlNBdHRyaWJ1dGVkU3RyaW5nol4tXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WFiVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAgMCCgISAh0CIgIkAiYCKAIqAi8CMQIzAjUCNwI5AkwCbgKOArsCwgLkAu8C8QLzAvUC+gMFAw4DIQMkAy0DMgNPA1EDUwNaA10DXwNhA2QDZgNoA2oDgAOWA5gDoAOlA7sDvwPMA9ED5APnA/oD/AQDBAgECgQMBA4EEAQVBBcEGQQbBB0EHwQjBCkELgQ0BD0ERgRLBE4EUwRoBGsEgASSBJUEmgAAAAAAAAIBAAAAAAAAAGMAAAAAAAAAAAAAAAAAAASc"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
   "do_objectID": "6E52D827-CF88-43AA-807C-4F94EC0A0668",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,7 +27,6 @@
     "y": 78
   },
   "glyphBounds": "{{0, 1}, {1000, 251}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,9 +41,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -83,21 +55,15 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Regular",
-            "size": 50
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAyV1JlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKAMwA1ADZAOQA7QEDAQcBFAEdASIBNQE4AUsBXQFgAWUAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABZw=="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3NaTlNUYWJTdG9wcxABgAKAANIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhqcXx+gIKHkpuusbrMz9QAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA1g=="
         },
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2,
   "userInfo": {

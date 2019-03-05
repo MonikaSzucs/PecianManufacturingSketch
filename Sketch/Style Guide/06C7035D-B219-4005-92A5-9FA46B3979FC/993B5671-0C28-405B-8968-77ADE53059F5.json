@@ -1,39 +1,12 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Regular",
-              "size": 50
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 233,
-        "location": 0
-      }
-    ],
-    "string": "There are 3 colors that make up the logo. The text is a black color when against a light background and the text is a white color when against a dark background. The golden colors make up the gradient for the needle and dotted lines."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAeHyAhIiowNDw9Pj9AREhJVVZXWFlaW11VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEOlUaGVyZSBhcmUgMyBjb2xvcnMgdGhhdCBtYWtlIHVwIHRoZSBsb2dvLiBUaGUgdGV4dCBpcyBhIGJsYWNrIGNvbG9yIHdoZW4gYWdhaW5zdCBhIGxpZ2h0IGJhY2tncm91bmQgYW5kIHRoZSB0ZXh0IGlzIGEgd2hpdGUgY29sb3Igd2hlbiBhZ2FpbnN0IGEgZGFyayBiYWNrZ3JvdW5kLiBUaGUgZ29sZGVuIGNvbG9ycyBtYWtlIHVwIHRoZSBncmFkaWVudCBmb3IgdGhlIG5lZWRsZSBhbmQgZG90dGVkIGxpbmVzLtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACoASgBOAGl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAddGV4dFN0eWxlVmVydGljYWxBbGlnbm1lbnRLZXlfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGXUIyQlCiYnKClaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb26AABACEAGACdIrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxloi0vWE5TT2JqZWN00goxMjNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTERIKNTg7ojY3gAyADaI5OoAOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEDJXUmVndWxhctIrLEFCXxATTlNNdXRhYmxlRGljdGlvbmFyeaNBQy9cTlNEaWN0aW9uYXJ50issRUZfEBBOU0ZvbnREZXNjcmlwdG9yokcvXxAQTlNGb250RGVzY3JpcHRvchAA0xESCkpPHaRLTE1OgBSAFYAWgBekUFFQUIAYgBmAGIAYgBpTcmVkVWFscGhhVGJsdWVVZ3JlZW4jAAAAAAAAAAAjP/AAAAAAAADSKyxDXKJDL9IrLF5fXxASTlNBdHRyaWJ1dGVkU3RyaW5nomAvXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WNkVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAXIBeQGBAYwBkQGTAZUBlwGZAZ4BoAGiAaQBpgGoAbsB3QH9AioCMwI+AkoCbAJuAnACcgJ0AnkChAKNAqACowKsArECzgLQAtIC2QLcAt4C4ALjAuUC5wLpAv8DFQMXAx8DJAM6Az4DSwNQA2MDZgN5A3sDggOHA4kDiwONA48DlAOWA5gDmgOcA54DogOoA60DswO8A8UDygPNA9ID5wPqA/8EEQQUBBkAAAAAAAACAQAAAAAAAABlAAAAAAAAAAAAAAAAAAAEGw=="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
   "do_objectID": "993B5671-0C28-405B-8968-77ADE53059F5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,7 +27,6 @@
     "y": 864
   },
   "glyphBounds": "{{13, 2}, {965, 272}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
@@ -69,9 +41,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -83,21 +55,15 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "Regular",
-            "size": 50
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAyV1JlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKAMwA1ADZAOQA7QEDAQcBFAEdASIBNQE4AUsBXQFgAWUAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABZw=="
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQAhABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
         },
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2,
   "userInfo": {

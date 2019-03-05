@@ -1,38 +1,12 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.1956845238095238,
-            "green": 0.1956845238095238,
-            "red": 0.1956845238095238
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "OpenSans-Regular",
-              "size": 30
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 433,
-        "location": 0
-      }
-    ],
-    "string": "Pecian Manufacturing has started since July 2005. We have grown and met many people locally and internationally who have ordered from us. We are a growing company that has survived through the trials and tribulations. We constantly strive to create improvements on our products along with assisting customers with any customization’s they require.  We can’t wait for what’s ahead and we thrive to work hard to keep the company going."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOUFESFBRUlNUV1tVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANvEQGxAFAAZQBjAGkAYQBuACAATQBhAG4AdQBmAGEAYwB0AHUAcgBpAG4AZwAgAGgAYQBzACAAcwB0AGEAcgB0AGUAZAAgAHMAaQBuAGMAZQAgAEoAdQBsAHkAIAAyADAAMAA1AC4AIABXAGUAIABoAGEAdgBlACAAZwByAG8AdwBuACAAYQBuAGQAIABtAGUAdAAgAG0AYQBuAHkAIABwAGUAbwBwAGwAZQAgAGwAbwBjAGEAbABsAHkAIABhAG4AZAAgAGkAbgB0AGUAcgBuAGEAdABpAG8AbgBhAGwAbAB5ACAAdwBoAG8AIABoAGEAdgBlACAAbwByAGQAZQByAGUAZAAgAGYAcgBvAG0AIAB1AHMALgAgAFcAZQAgAGEAcgBlACAAYQAgAGcAcgBvAHcAaQBuAGcAIABjAG8AbQBwAGEAbgB5ACAAdABoAGEAdAAgAGgAYQBzACAAcwB1AHIAdgBpAHYAZQBkACAAdABoAHIAbwB1AGcAaAAgAHQAaABlACAAdAByAGkAYQBsAHMAIABhAG4AZAAgAHQAcgBpAGIAdQBsAGEAdABpAG8AbgBzAC4AIABXAGUAIABjAG8AbgBzAHQAYQBuAHQAbAB5ACAAcwB0AHIAaQB2AGUAIAB0AG8AIABjAHIAZQBhAHQAZQAgAGkAbQBwAHIAbwB2AGUAbQBlAG4AdABzACAAbwBuACAAbwB1AHIAIABwAHIAbwBkAHUAYwB0AHMAIABhAGwAbwBuAGcAIAB3AGkAdABoACAAYQBzAHMAaQBzAHQAaQBuAGcAIABjAHUAcwB0AG8AbQBlAHIAcwAgAHcAaQB0AGgAIABhAG4AeQAgAGMAdQBzAHQAbwBtAGkAegBhAHQAaQBvAG4gGQBzACAAdABoAGUAeQAgAHIAZQBxAHUAaQByAGUALgAgACAAVwBlACAAYwBhAG4gGQB0ACAAdwBhAGkAdAAgAGYAbwByACAAdwBoAGEAdCAZAHMAIABhAGgAZQBhAGQAIABhAG4AZAAgAHcAZQAgAHQAaAByAGkAdgBlACAAdABvACAAdwBvAHIAawAgAGgAYQByAGQAIAB0AG8AIABrAGUAZQBwACAAdABoAGUAIABjAG8AbQBwAGEAbgB5ACAAZwBvAGkAbgBnAC7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYATgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/JDDDDDDDDIz/wAAAAAAAAIz/JDDDDDDDDIz/JDDDDDDDD0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TUOjs8Cj0+P0BaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb26AABACEAGAEtI0NUJDXxAQTlNQYXJhZ3JhcGhTdHlsZaJCONIKRUZHXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGoAU0xESCklMT6JKS4AVgBaiTU6AF4AYgBlfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAeXxAQT3BlblNhbnMtUmVndWxhctI0NVVWXxATTlNNdXRhYmxlRGljdGlvbmFyeaNVNjjSNDVYWV8QEE5TRm9udERlc2NyaXB0b3KiWjhfEBBOU0ZvbnREZXNjcmlwdG9y0jQ1XF1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXjhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRYWJUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYD7APzA/sEBgQKBAwEDgQQBBQEFgQYBBoEHARJBFwEfgSFBIoEjASOBJAEkgSXBJkEmwSdBJ8EoQSlBKsEsAS2BL8EyATRBNoE3wTqBPMFAAUDBQwFFQUgBSwFTgVQBVIFVAVWBVsFbgVxBXYFkwWVBZcFngWhBaMFpQWoBaoFrAWuBcQF2gXcBe8F9AYKBg4GEwYmBikGPAZBBlYGWQZuBoAGgwaIAAAAAAAAAgEAAAAAAAAAYwAAAAAAAAAAAAAAAAAABoo="
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
   "do_objectID": "5CDF7AAA-F62D-4014-8E8F-378A073E018E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,7 +29,6 @@
     "y": 1747
   },
   "glyphBounds": "{{7, 9}, {1281, 195}}",
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,9 +44,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "2F861A0D-0D92-48ED-AE5D-6CF13802918A",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
+    "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "6661581C-B29B-4E50-BDC5-79CA30F62443",
@@ -86,20 +59,14 @@
           "red": 0.1956845238095238
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "OpenSans-Regular",
-            "size": 30
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAeXxAQT3BlblNhbnMtUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoAzADfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFxhYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCBFVJG51bGzUCQoLDA0ODxBaTlNUYWJTdG9wc1tOU0FsaWdubWVudF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25WJGNsYXNzgAAQAhABgALSEhMUFVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNQYXJhZ3JhcGhTdHlsZaIUFlhOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEZGlRyb290gAEIERojLTI3O0FKVWGDioyOkJKXoqu+wcrc3+QAAAAAAAABAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA5g=="
         }
       },
       "verticalAlignment": 0
-    },
-    "windingRule": 1
+    }
   },
   "textBehaviour": 2,
   "userInfo": {

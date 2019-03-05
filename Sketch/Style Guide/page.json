@@ -1,6 +1,5 @@
 {
   "_class": "page",
-  "booleanOperation": -1,
   "do_objectID": "20E7E466-0D2C-4229-AAF2-D0A0EDB94AEE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -14,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 300,
+    "width": 300,
     "x": 0,
     "y": 0
   },
@@ -27,7 +26,6 @@
     ]
   },
   "includeInCloudUpload": true,
-  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -163,10 +161,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endMarkerType": 0,
+    "endDecorationType": 0,
     "miterLimit": 10,
-    "startMarkerType": 0,
-    "windingRule": 1
+    "startDecorationType": 0
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
