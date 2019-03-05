@@ -69,12 +69,8 @@
       "id": "D4660D58-B77A-4EE2-8A35-ADCF405432A5"
     },
     {
-      "class": "bitmap",
-      "id": "3D95B0B8-49F0-490C-BBA9-B9D9794F1D10"
-    },
-    {
-      "class": "text",
-      "id": "9E1D14B3-76DE-4BE9-BA9B-2B18DDA7D255"
+      "class": "group",
+      "id": "ED81EFBD-772C-4146-A183-B54658B71801"
     }
   ],
   "name": "Page 26",

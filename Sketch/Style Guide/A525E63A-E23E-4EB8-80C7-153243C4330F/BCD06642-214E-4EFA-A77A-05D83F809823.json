@@ -29,7 +29,7 @@
   "glyphBounds": "{{0, 1}, {664, 56}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
