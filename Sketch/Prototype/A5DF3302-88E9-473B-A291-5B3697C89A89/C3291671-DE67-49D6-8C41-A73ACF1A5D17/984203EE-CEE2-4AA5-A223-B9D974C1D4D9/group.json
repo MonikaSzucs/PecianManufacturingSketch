@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "984203EE-CEE2-4AA5-A223-B9D974C1D4D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EBB6FA3-8FD2-4EFA-B697-3D45FCC23A9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 2,
+    "destinationArtboardID": "3C072ED2-4384-4462-A274-7E804F5BFAE6",
+    "do_objectID": "734B244B-1FEE-4BDD-A78F-BB5BC587A230"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82A2D161-7AFC-4E75-8104-1DCDE2D20074",
+    "height": 105,
+    "width": 125,
+    "x": 153,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9F43D3F8-2EC8-4193-AA1C-DAA9BEC3A2BF"
+    },
+    {
+      "class": "text",
+      "id": "477B55BC-94D5-404B-B4BD-EF2F6F94C805"
+    }
+  ],
+  "name": "About Us",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69C70123-B977-46C9-A9AB-4EA081D2C0CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

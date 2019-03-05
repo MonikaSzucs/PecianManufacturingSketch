@@ -48,23 +48,7 @@
     },
     {
       "class": "group",
-      "id": "7ACD2D5E-B4C3-49BC-9D21-C2042711E924"
-    },
-    {
-      "class": "group",
-      "id": "C97BE502-4639-4E0F-B8FC-4B18AA82D338"
-    },
-    {
-      "class": "group",
-      "id": "5CAE1411-FDB4-4379-86EA-B5AF01DCC269"
-    },
-    {
-      "class": "group",
-      "id": "984203EE-CEE2-4AA5-A223-B9D974C1D4D9"
-    },
-    {
-      "class": "group",
-      "id": "649B1D78-6A21-479D-8F7A-AF94607A2C08"
+      "id": "C3291671-DE67-49D6-8C41-A73ACF1A5D17"
     }
   ],
   "name": "Menu iPhone 8",
@@ -86,6 +70,13 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

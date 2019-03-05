@@ -15,12 +15,12 @@
   "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "do_objectID": "EE38E9A5-6DC2-4E69-A929-10D46069E54C",
     "height": 414,
-    "width": 414,
-    "x": 9,
-    "y": 666
+    "width": 497,
+    "x": 3,
+    "y": 654
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -48,21 +48,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 344,
-            "enabled": 1,
-            "modelID": "constraint_189047fe-47dc-4f05-9d41-eb34cbcd2296",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 344
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_934bdee8-81ae-4416-8156-13ab24e5f8e6",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
       }
     }
   }

@@ -26,7 +26,7 @@
     "height": 181,
     "width": 299,
     "x": 114,
-    "y": 816
+    "y": 824
   },
   "glyphBounds": "{{7, 12}, {285, 143}}",
   "isFlippedHorizontal": false,
@@ -75,7 +75,7 @@
         "constraints": {
           "automatic": 1,
           "left": {
-            "constant": 160,
+            "constant": 114,
             "enabled": 1,
             "modelID": "constraint_5043c2d3-2c36-49d0-85b2-af2170b28947",
             "model_class": "ADModelConstraint",
@@ -87,7 +87,7 @@
           "model_version": 0.1,
           "scaleFactor": 1,
           "top": {
-            "constant": 912,
+            "constant": 824,
             "enabled": 1,
             "modelID": "constraint_2ca71525-d807-409f-b1ae-042132ba4f84",
             "model_class": "ADModelConstraint",

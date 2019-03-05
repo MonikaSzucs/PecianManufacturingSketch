@@ -19,8 +19,8 @@
     "do_objectID": "4A685EE7-38DB-4837-8ABF-1D592B635D13",
     "height": 68,
     "width": 216,
-    "x": 0,
-    "y": 0
+    "x": 20,
+    "y": 25
   },
   "image": {
     "_class": "MSJSONFileReference",

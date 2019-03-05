@@ -99,10 +99,6 @@
     {
       "class": "artboard",
       "id": "A5DF3302-88E9-473B-A291-5B3697C89A89"
-    },
-    {
-      "class": "group",
-      "id": "39E3B350-71B9-4C89-A97C-BC683D1C5C27"
     }
   ],
   "name": "Prototype",
@@ -116,6 +112,15 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.animaPageID": "13598FD5-2BCE-493A-8F7C-1C345BC9B3F0",
+      "com.animaapp.uses.anima": 1,
+      "draft:116f94c66dd61cf2dd2844818937f3f0": "https://projects.animaapp.com/#/p/mJyDRst/IwMwNnC/homemobile/prototype",
+      "draft:f2b57740f5aa74bbb566776a18093a91": "https://projects.animaapp.com/#/p/Zevifwo/6x1yifo/menuiphone8/prototype",
+      "pid": "5c7df759cbeeff000c497c8e"
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -48,23 +48,7 @@
   "layers": [
     {
       "class": "group",
-      "id": "BB9C30AF-9ECA-4FC4-9690-A640FAE0FA7A"
-    },
-    {
-      "class": "group",
-      "id": "95703FCD-A51E-4B61-BADA-C3A1420469B8"
-    },
-    {
-      "class": "group",
-      "id": "6CD2514E-2F9F-42B6-884E-16BD5F2E69A0"
-    },
-    {
-      "class": "group",
-      "id": "E90A7B87-637D-4094-892D-4EAFC569E78B"
-    },
-    {
-      "class": "group",
-      "id": "4EFF8751-6CCD-42CE-AEA6-1236BA7A417F"
+      "id": "6CF082D1-5197-47C3-A6CC-BAB8D26B0652"
     },
     {
       "class": "group",
@@ -91,6 +75,13 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

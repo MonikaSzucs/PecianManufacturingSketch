@@ -58,6 +58,14 @@
             "multiplier": 768
           },
           "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_98ad3261-0c74-43ed-9272-a026605fcc94",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
           "modelID": "viewConstraints_ced41fcf-f924-484c-8164-fc23d435601f",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,

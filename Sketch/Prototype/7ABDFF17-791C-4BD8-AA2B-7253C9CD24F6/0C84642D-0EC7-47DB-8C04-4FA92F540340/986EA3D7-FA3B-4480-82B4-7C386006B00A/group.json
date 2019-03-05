@@ -18,7 +18,7 @@
     "height": 388,
     "width": 527,
     "x": 0,
-    "y": 160
+    "y": 167
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -71,7 +71,7 @@
         "constraints": {
           "automatic": 1,
           "left": {
-            "constant": 14,
+            "constant": 0,
             "enabled": 1,
             "modelID": "constraint_5f5a3812-1871-4bd6-957c-65c759671834",
             "model_class": "ADModelConstraint",
@@ -83,7 +83,7 @@
           "model_version": 0.1,
           "scaleFactor": 1,
           "top": {
-            "constant": 255,
+            "constant": 167,
             "enabled": 1,
             "modelID": "constraint_83852730-7c11-4dac-a68b-fd27f7565c20",
             "model_class": "ADModelConstraint",

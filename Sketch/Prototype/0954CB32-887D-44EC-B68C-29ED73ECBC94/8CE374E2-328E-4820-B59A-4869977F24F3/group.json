@@ -32,10 +32,6 @@
       "id": "0ACA9764-5D25-4657-96A4-C76BCD98D494"
     },
     {
-      "class": "bitmap",
-      "id": "34B9A867-E956-4E93-9BB9-ED40BFC5C4C9"
-    },
-    {
       "class": "shapeGroup",
       "id": "C1457BF0-42EC-4A20-B05C-F2B37362717C"
     },
@@ -58,6 +54,10 @@
     {
       "class": "shapeGroup",
       "id": "4C5F909F-CE89-4784-A024-3B4A7C3C86F1"
+    },
+    {
+      "class": "group",
+      "id": "587C4C93-7707-41F0-9683-D519C5F2A5A5"
     }
   ],
   "name": "Map Location",
@@ -78,10 +78,10 @@
       "kModelPropertiesKey": {
         "constraints": {
           "automatic": 1,
-          "left": {
+          "centerHorizontally": {
             "constant": 0,
             "enabled": 1,
-            "modelID": "constraint_a1d75ed6-baa1-4050-ba0c-fcf0508174c8",
+            "modelID": "constraint_95c95325-59d0-47de-9f28-467e9c145686",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 0
@@ -89,14 +89,6 @@
           "modelID": "viewConstraints_7bcb6948-cb7d-485e-af92-18b8ce43e379",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
-          "right": {
-            "constant": -1,
-            "enabled": 1,
-            "modelID": "constraint_b9cfebf4-3cb6-4369-ab4e-237a1f437340",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          },
           "scaleFactor": 1,
           "width": {
             "constant": 0,
@@ -104,7 +96,7 @@
             "modelID": "constraint_a7378265-46ce-4532-a2f3-7045074e8fc0",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 1
+            "multiplier": 1.002667
           }
         }
       }

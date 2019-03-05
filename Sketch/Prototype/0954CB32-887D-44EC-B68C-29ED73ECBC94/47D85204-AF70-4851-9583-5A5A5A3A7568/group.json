@@ -83,7 +83,7 @@
         "constraints": {
           "automatic": 1,
           "centerHorizontally": {
-            "constant": 0,
+            "constant": -3.5,
             "enabled": 1,
             "modelID": "constraint_6c3a060d-9630-4f29-95fd-2fb6a227aa6d",
             "model_class": "ADModelConstraint",
@@ -100,7 +100,7 @@
             "modelID": "constraint_0d794988-84a7-494f-acb4-efe81c579823",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 0.84
+            "multiplier": 0.7946666
           }
         }
       }

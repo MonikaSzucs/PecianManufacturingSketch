@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "do_objectID": "D683C72D-6445-4CA0-B29A-ACBA84BE3678",
     "height": 141,
-    "width": 432,
-    "x": 0,
-    "y": 1153
+    "width": 500,
+    "x": 19,
+    "y": 1181
   },
-  "glyphBounds": "{{5, 9}, {422, 113}}",
+  "glyphBounds": "{{6, 7}, {489, 63}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

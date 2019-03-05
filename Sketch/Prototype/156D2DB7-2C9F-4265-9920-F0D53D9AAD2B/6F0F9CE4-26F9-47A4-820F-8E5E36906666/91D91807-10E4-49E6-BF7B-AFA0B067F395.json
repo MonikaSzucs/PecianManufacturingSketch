@@ -23,12 +23,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "92BEE3A8-B51F-4501-A93C-A78B1BDFAD36",
-    "height": 141,
-    "width": 414,
-    "x": 9,
-    "y": 1820
+    "height": 110,
+    "width": 500,
+    "x": 0,
+    "y": 1850
   },
-  "glyphBounds": "{{9, 9}, {398, 106}}",
+  "glyphBounds": "{{31, 7}, {438, 58}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -17,8 +17,8 @@
     "do_objectID": "3B748040-D298-4532-BD4A-070A855D8FF5",
     "height": 49,
     "width": 58,
-    "x": 228,
-    "y": 685
+    "x": 235,
+    "y": 703
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -55,7 +55,7 @@
         "constraints": {
           "automatic": 1,
           "left": {
-            "constant": 242,
+            "constant": 235,
             "enabled": 1,
             "modelID": "constraint_bde12376-996c-4ee7-8f8d-c53c9372e6de",
             "model_class": "ADModelConstraint",
@@ -67,7 +67,7 @@
           "model_version": 0.1,
           "scaleFactor": 1,
           "top": {
-            "constant": 761,
+            "constant": 703,
             "enabled": 1,
             "modelID": "constraint_87e5f741-ed81-4441-8f27-0d745d419f31",
             "model_class": "ADModelConstraint",

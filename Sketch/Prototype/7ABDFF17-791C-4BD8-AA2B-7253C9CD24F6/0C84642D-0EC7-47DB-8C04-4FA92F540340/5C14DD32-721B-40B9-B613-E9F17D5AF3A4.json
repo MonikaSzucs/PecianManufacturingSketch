@@ -19,7 +19,7 @@
     "do_objectID": "5503165E-1CFB-48D5-A971-461DF23B130F",
     "height": 113,
     "width": 377,
-    "x": 68,
+    "x": 75,
     "y": 0
   },
   "image": {
@@ -59,7 +59,7 @@
           },
           "automatic": 1,
           "left": {
-            "constant": 82,
+            "constant": 75,
             "enabled": 1,
             "modelID": "constraint_849f066b-b34b-43df-bb4e-046a1764b646",
             "model_class": "ADModelConstraint",
@@ -71,7 +71,7 @@
           "model_version": 0.1,
           "scaleFactor": 1,
           "top": {
-            "constant": 76,
+            "constant": 0,
             "enabled": 1,
             "modelID": "constraint_9d085acf-9e40-4315-8964-568145af7c74",
             "model_class": "ADModelConstraint",

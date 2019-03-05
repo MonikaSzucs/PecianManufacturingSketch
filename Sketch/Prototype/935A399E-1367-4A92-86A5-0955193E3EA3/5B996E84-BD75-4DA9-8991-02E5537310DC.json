@@ -25,7 +25,7 @@
     "do_objectID": "1F3B7111-3F24-44E5-8EDA-D216491F6AEF",
     "height": 212,
     "width": 663,
-    "x": 53,
+    "x": 52,
     "y": 1535
   },
   "glyphBounds": "{{5, 5}, {653, 183}}",
@@ -72,6 +72,21 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_208df2df-752e-4024-a1f3-cf07249f8921",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_81fdbae7-9076-4c48-a68b-8c8b68d5ee6b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        },
         "isAutoWidth": 0
       }
     }

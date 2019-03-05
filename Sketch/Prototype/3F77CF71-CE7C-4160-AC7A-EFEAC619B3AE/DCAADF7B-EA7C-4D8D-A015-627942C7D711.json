@@ -19,7 +19,7 @@
     "do_objectID": "62E2561D-446E-4C62-8DE3-D4245E7DFA7F",
     "height": 247,
     "width": 816,
-    "x": -221,
+    "x": -220,
     "y": 229
   },
   "image": {
@@ -58,6 +58,14 @@
             "multiplier": 1378
           },
           "automatic": 1,
+          "centerHorizontally": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_d75edbf3-dc65-4bb4-9b6e-cadf1f0d2463",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
           "modelID": "viewConstraints_5ab109c5-0388-4056-9590-e4df2afabc38",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,

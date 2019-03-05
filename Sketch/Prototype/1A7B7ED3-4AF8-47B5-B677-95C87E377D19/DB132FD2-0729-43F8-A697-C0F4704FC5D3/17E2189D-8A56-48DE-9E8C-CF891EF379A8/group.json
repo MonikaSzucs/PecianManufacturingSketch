@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "17E2189D-8A56-48DE-9E8C-CF891EF379A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C69C3428-62D8-4479-B81A-DDEEBDC8CBFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B5FDFB1-D32A-4947-BE01-849D87E1A472",
+    "height": 530,
+    "width": 322,
+    "x": 345,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "4FC103A1-D194-4E0A-9194-C01147F8AD22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE2845A7-4C3B-4B77-BE4C-8DD91246F725"
+    },
+    {
+      "class": "text",
+      "id": "E33CEA62-08ED-4E22-8064-DFC8CE65514A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72DCB46B-34D9-46F9-A531-299A5CAFE552"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B34BC8F4-67D8-459C-9E70-1EFEF470ABDC"
+    },
+    {
+      "class": "text",
+      "id": "03BB6379-7CC0-4CCE-9C92-A6436048E82B"
+    },
+    {
+      "class": "bitmap",
+      "id": "53907F94-8CC6-4FB0-9922-59799B6364E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E05741C5-4082-44A5-99AD-74F0EE4F86D6"
+    },
+    {
+      "class": "text",
+      "id": "99B2257A-D6B1-4FEF-9321-840C7E2C2B31"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29777B14-CE43-47B4-AC87-38BAE2503BD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0C8B83D1-3B6D-4B74-A487-31F0172748D5"
+    },
+    {
+      "class": "text",
+      "id": "19E7AB76-2B01-48A1-8597-6F4A233ABC3A"
+    }
+  ],
+  "name": "Belt Keeper 1 inch set of 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18370C0E-3CA1-4D78-AF73-F7B0DC99B43D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

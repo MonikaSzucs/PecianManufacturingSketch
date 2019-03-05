@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "do_objectID": "8F1D9F19-5FF7-4CBD-9480-D972F443BD79",
     "height": 107,
-    "width": 378,
-    "x": 0,
+    "width": 381,
+    "x": -3,
     "y": 0
   },
   "hasClickThrough": false,
@@ -34,10 +34,6 @@
     {
       "class": "group",
       "id": "715B706F-D65F-44F2-A265-F7463C3B44AC"
-    },
-    {
-      "class": "group",
-      "id": "4569BB96-F5AF-4DE5-B9CD-8E9CF1BBD91F"
     },
     {
       "class": "bitmap",
@@ -62,26 +58,18 @@
       "kModelPropertiesKey": {
         "constraints": {
           "automatic": 1,
-          "modelID": "viewConstraints_11112b5d-2049-4dfb-b828-d6e84fd7d8b6",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "right": {
-            "constant": 35,
+          "centerHorizontally": {
+            "constant": 0,
             "enabled": 1,
-            "modelID": "constraint_89b0f29e-2454-487f-a739-dda4d696ef63",
+            "modelID": "constraint_0f362919-6bea-4348-83cd-c8f10723c496",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
             "multiplier": 0
           },
-          "scaleFactor": 1,
-          "top": {
-            "constant": 44,
-            "enabled": 1,
-            "modelID": "constraint_2afae0f4-0414-4394-a567-5c277066195b",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 0
-          }
+          "modelID": "viewConstraints_11112b5d-2049-4dfb-b828-d6e84fd7d8b6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
         }
       }
     }
