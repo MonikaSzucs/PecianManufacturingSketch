@@ -15,15 +15,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "926EA0D6-118A-4EFE-9D1A-81A8D316DE5A",
-    "height": 223,
+    "height": 242,
     "width": 867,
     "x": 231,
-    "y": 1023
+    "y": 1036
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
