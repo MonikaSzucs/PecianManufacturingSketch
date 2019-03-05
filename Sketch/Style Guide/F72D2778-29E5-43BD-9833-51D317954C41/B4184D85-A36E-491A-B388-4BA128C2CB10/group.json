@@ -13,15 +13,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 224,
+    "height": 239,
     "width": 1149,
     "x": 1362,
-    "y": 999
+    "y": 1016
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [

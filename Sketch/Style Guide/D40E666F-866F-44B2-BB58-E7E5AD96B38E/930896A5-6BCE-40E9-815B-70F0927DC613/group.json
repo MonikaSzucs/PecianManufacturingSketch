@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 487,
-    "width": 1031,
-    "x": 409,
-    "y": 784
+    "height": 515,
+    "width": 1132,
+    "x": 352,
+    "y": 758
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -31,15 +31,15 @@
     },
     {
       "class": "text",
-      "id": "456E81EB-F97A-4070-977D-BF6821386F19"
-    },
-    {
-      "class": "text",
-      "id": "3AE87D21-69DC-4132-BE69-D42C67752FC3"
+      "id": "81C464D7-FAB0-4C39-8FDF-1D51DEBBCBD9"
     },
     {
       "class": "text",
       "id": "E1889D1B-7092-44B2-A467-7CAE701F67B1"
+    },
+    {
+      "class": "text",
+      "id": "068F07AE-B28B-4DE9-9E80-E9CC77ABDD1B"
     },
     {
       "class": "bitmap",
