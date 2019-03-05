@@ -1,10 +1,10 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "54AB5769-8977-4E8C-9BAC-51BDD2D3E707",
+  "do_objectID": "E4C15B6F-596E-4C5E-BC6D-588575F5A426",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4AC762D9-DE5E-4CE4-A084-846D7943F657",
+    "do_objectID": "BF04E250-E55E-4287-A9FB-C7DEA20729E3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,23 +16,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "EFC03D51-663A-40F2-A23B-BB8BB9924615",
-    "height": 285.3666026871401,
-    "width": 294.1535508637236,
-    "x": 1479,
-    "y": 1144
+    "do_objectID": "EB717994-1EF2-420C-AF09-5895D703E0E3",
+    "height": 435,
+    "width": 435,
+    "x": 73,
+    "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/23653c00fc31db0abbb79acb8cd09128207c56c5",
+    "_ref": "images/816dbe0ee35ad10e37c786fab180fbfe23b21057",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "White Pattern-01 Copy 2",
+  "name": "Color Pattern Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,8 +40,26 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1C702D1A-FBF4-47DA-A8CA-FB49CAC29152",
+    "do_objectID": "46D38A88-4710-48D9-8B6F-0A3AE470E000",
     "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startDecorationType": 0
   },
@@ -50,15 +68,15 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 285.3666,
+            "constant": 435,
             "enabled": 1,
-            "modelID": "constraint_4f4daad2-b051-45e1-b07e-bab21dd72b8b",
+            "modelID": "constraint_e4bbf5b2-3f88-414d-999a-7c1609fec86f",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 294.1536
+            "multiplier": 435
           },
           "automatic": 1,
-          "modelID": "viewConstraints_cab679ad-3fd5-4acd-9da3-2c93e98e4aaa",
+          "modelID": "viewConstraints_90a316d0-725f-4c67-a6ab-d8fba46f8bb2",
           "model_class": "ADModelViewConstraints",
           "model_version": 0.1,
           "scaleFactor": 1

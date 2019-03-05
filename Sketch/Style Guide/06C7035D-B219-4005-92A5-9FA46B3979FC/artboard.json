@@ -65,40 +65,24 @@
       "id": "5CA8C241-0794-4538-B402-E4BA82A92C94"
     },
     {
-      "class": "bitmap",
-      "id": "B57C623A-5DED-44C7-9DD4-14C07A2AB748"
+      "class": "group",
+      "id": "51582BA6-F4F5-4C10-967D-EBE544376505"
     },
     {
-      "class": "bitmap",
-      "id": "734DF6DB-B006-4B77-AC93-B85D15A53E75"
+      "class": "group",
+      "id": "66304D12-CA38-4AA6-9C4A-1A96716700B0"
     },
     {
-      "class": "bitmap",
-      "id": "E4C15B6F-596E-4C5E-BC6D-588575F5A426"
-    },
-    {
-      "class": "text",
-      "id": "0CE56829-3A24-443E-81B7-05C90C33267C"
-    },
-    {
-      "class": "text",
-      "id": "493C22BD-D29F-4930-8FF0-E7E2E97CF669"
-    },
-    {
-      "class": "text",
-      "id": "2EE6712E-72E0-4DC8-B54A-6612C159B0E1"
+      "class": "group",
+      "id": "4E71DD70-64EE-45AE-AD90-172A260104BB"
     },
     {
       "class": "text",
       "id": "993B5671-0C28-405B-8968-77ADE53059F5"
     },
     {
-      "class": "bitmap",
-      "id": "54AB5769-8977-4E8C-9BAC-51BDD2D3E707"
-    },
-    {
-      "class": "text",
-      "id": "284A2CB2-53F1-41E6-B887-049AEDBC46E4"
+      "class": "group",
+      "id": "FC3D2FF2-D7C6-4A59-8684-FF9A3375A7FD"
     }
   ],
   "name": "Page 17 Color - RGB Palette Logo",

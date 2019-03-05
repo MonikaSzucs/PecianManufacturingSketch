@@ -17,8 +17,8 @@
     "constrainProportions": true,
     "height": 292,
     "width": 435,
-    "x": 1410,
-    "y": 615
+    "x": 53,
+    "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -27,7 +27,7 @@
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Color Pattern",

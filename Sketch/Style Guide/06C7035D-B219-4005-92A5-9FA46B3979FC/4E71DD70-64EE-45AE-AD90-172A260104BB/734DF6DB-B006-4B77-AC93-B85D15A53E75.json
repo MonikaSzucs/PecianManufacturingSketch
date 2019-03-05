@@ -1,10 +1,10 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "E4C15B6F-596E-4C5E-BC6D-588575F5A426",
+  "do_objectID": "734DF6DB-B006-4B77-AC93-B85D15A53E75",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "BF04E250-E55E-4287-A9FB-C7DEA20729E3",
+    "do_objectID": "E3B8C8C0-3069-43F9-B8D7-2BA9CBF4F80C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "EB717994-1EF2-420C-AF09-5895D703E0E3",
+    "do_objectID": "B63A5D18-B845-4856-89B2-318F1A6F3341",
     "height": 435,
     "width": 435,
-    "x": 1918,
-    "y": 1069
+    "x": 53,
+    "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
@@ -29,10 +29,10 @@
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Color Pattern Copy 2",
+  "name": "Color Pattern Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,7 +40,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "46D38A88-4710-48D9-8B6F-0A3AE470E000",
+    "do_objectID": "A8183151-59FD-40F3-ADD0-A6BA4D2BBB96",
     "endDecorationType": 0,
     "fills": [
       {
@@ -48,9 +48,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2549019607843137,
+          "green": 0.5019607843137255,
+          "red": 0.6509803921568628
         },
         "fillType": 0,
         "isEnabled": true,
@@ -68,12 +68,12 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 435,
+            "constant": 459,
             "enabled": 1,
             "modelID": "constraint_e4bbf5b2-3f88-414d-999a-7c1609fec86f",
             "model_class": "ADModelConstraint",
             "model_version": 0.1,
-            "multiplier": 435
+            "multiplier": 459
           },
           "automatic": 1,
           "modelID": "viewConstraints_90a316d0-725f-4c67-a6ab-d8fba46f8bb2",

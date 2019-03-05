@@ -31,7 +31,7 @@
   "glyphBounds": "{{3, 2}, {121, 37}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
